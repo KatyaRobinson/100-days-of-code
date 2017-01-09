@@ -1,8 +1,6 @@
 # 100 Days Of Code - Log
-Days to make up for after 100 days are over: 12/08; 12/10; 
 
 NOTE: I've started this challege back in December 2016 before getting myself completely familiar with all the rules. Some of my earlier log records are missing essentials like code links. Also, I've shamefully skipped more than 1 day in a row on multiple occasions but I will keep on going no matter what! #lifehappens
-
 
 
 <hr>
@@ -60,7 +58,9 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/color-game.git">JavaScript Color Picker Game</a>
 
-// And then Christmas in Retail happened and next thing I knew it was New Year
+<hr>
+
+NOTE: And then Christmas in Retail happened and next thing I knew it was New Year
 
 <hr>
 ### Day 6: January 2, 2017
@@ -73,60 +73,61 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 
 **Link to work:** <a href = "https://github.com/KatyaRobinson/movement-source/tree/3d8257ac859260b16cd069b9d2290eadfcd2c4fc">Movement Source Website Commit</a>
 
- NEED TO EDIT ALL BELOW
-
 <hr>
 ### Day 7: January 3, 2017
 
-**Today's Progress**: Node.js (Web Developer Bootcamp Udemy Course) - challenges
-**Technology used**: Node.js
+**Today's Progress**: Started another freelance projects - "Roxolanna Design Studio" (temp name). Created new Bootstrap installation, chose a template, set up GutHub repository
+**Technology used**: Bootstrap
 
-**Thoughts:** Continuing attacking Node.js, getting comfortable with command line
+**Thoughts:** It probably wasn't wise to take up 2 projects at the same time, but I am hoping that the pressure will help me stay motivated
 
-**Link to work:** Didn't push to GutHub
+**Link to work:** <a href = "https://github.com/KatyaRobinson/roxolana-designs.git">Roxolanna Design Studio Commit </a>
 
 <hr>
 ### Day 8: January 5, 2016
 
-**Today's Progress**: Node.js (Web Developer Bootcamp Udemy Course) - challenges
+**Today's Progress**: "Movement Source" website - Created About Page
 
-**Technology used**: Node.js
+**Technology used**: Bootstrpap, HTML, CSS
 
-**Thoughts:** Continuing attacking Node.js, getting comfortable with command line
+**Thoughts:** One of those tasks that supposed to take 40 mins to complete, but in reality stretches to hours and hours...
 
-**Link to work:** Didn't push to GutHub
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/e79a7cc6498b0b80a89f9cc1e7199e3b445dfc86">Movement Source Commit</a>
 
 <hr>
 ### Day 9: January 6, 2016
 
-**Today's Progress**: Node.js (Web Developer Bootcamp Udemy Course) - challenges
+**Today's Progress**: "Movement Source" website - Redesigned home page
 
-**Technology used**: Node.js
+**Technology used**: Bootstrpap, HTML, CSS
 
-**Thoughts:** Continuing attacking Node.js, getting comfortable with command line
+**Thoughts:** 
 
-**Link to work:** Didn't push to GutHub
+**Link to work:** ummmm... I got the commits confused... As this point I wasn't keeping a log yet - see newer commits to this project below
 
 <hr>
 ### Day 10: January 7, 2016
 
-**Today's Progress**: Node.js (Web Developer Bootcamp Udemy Course) - challenges
-**Technology used**: Node.js
+**Today's Progress**: "Movement Source" website - Worked on the Book.js script - appointment request form
 
-**Thoughts:** Continuing attacking Node.js, getting comfortable with command line
+**Technology used**: JavaScript, jQuery, jQueryUI - Datepicker
 
-**Link to work:** Didn't push to GutHub
+**Thoughts:** Because JavaScript is still a new technology for me, the Book page will probably be the most challengin part of this project for me. The challenge is to display different available time slots for different days of the week. Also, in the future updates I might add the ability to sort time slots by the tyoe of appointment (still waiting for the schedule structure from the client)
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/c3cb247a0ac60d1d43c11bfb4218ec65cd251b26">Movement Source Commit</a>
 
 <hr>
 ### Day 11: January 8, 2016
 
-**Today's Progress**: Node.js (Web Developer Bootcamp Udemy Course) - challenges
+**Today's Progress**: Reviewed Backend Section of The Web Developer Bootcamp Udemy course; Worked on the appointment booking section of the "Movement Source" website
 
-**Technology used**: Node.js
+**Technology used**: Node.js, JavaScript
 
-**Thoughts:** Continuing attacking Node.js, getting comfortable with command line
+**Thoughts:** Still struggling with the Book form. Look into a database option to store the schedule info in. Decided that for the time being it's an overkill, a simple hard-coded schedule should do for the prototype version of the website
 
-**Link to work:** Didn't push to GutHub
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/388cd3e481fe3db887e2595e76d5fa8ccafa245b">Movement Source Commit</a>
+
+
 
 
 

@@ -127,6 +127,32 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/388cd3e481fe3db887e2595e76d5fa8ccafa245b">Movement Source Commit</a>
 
+<hr>
+
+### Day 12: January 9, 2016
+
+**Today's Progress**: Set up 100-days-of-code log file
+
+**Technology used**: Markdown
+
+**Thoughts:** Yay! So excited to merge my own 100DayOfCode challnee with the one that CodeNewbie starts today. It was very satisfying to copy all of my old log info into to the GitHub repository. 
+
+**Link to work:**  <a hre="https://github.com/KatyaRobinson/100-days-of-code.git">100DaysOfCode Log</a>
+
+
+
+<hr><hr>
+NOTE: TEMPLATE FOR LOG RECORD
+
+### Day 12: January 9, 2016
+
+**Today's Progress**: 
+
+**Technology used**: 
+
+**Thoughts:** 
+
+**Link to work:** 
 
 
 

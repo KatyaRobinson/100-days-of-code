@@ -145,6 +145,17 @@ The home page is finally coming together. I will leave it as is for now and cont
 **Link to work:**  <a href="https://github.com/KatyaRobinson/100-days-of-code.git">100DaysOfCode Log</a>
 **Link to work 2:**  <a href = "https://github.com/KatyaRobinson/movement-source/tree/db4eac7bc8eb2af4ce65436da6ba7db1b2a23780"> Movement Source Commit </a>
 
+<hr>
+
+### Day 13: January 10, 2016
+
+**Today's Progress**: Worked on the "Services" page of the Movement Source Website. Copied text from the old website, styled the elements.
+
+**Technology used**: HTML, CSS
+
+**Thoughts:** Couldn't wait to wake up and get to work. Feel very motivated. 
+
+**Link to work:** 
 
 
 <hr><hr>

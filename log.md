@@ -155,7 +155,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 **Thoughts:** Couldn't wait to wake up and get to work. Feel very motivated. 
 
-**Link to work:** 
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/8e9acac3d55da09f87ddf20c7be3da7779426d19">Movement Source Services Page Commit</a>
 
 
 <hr><hr>

@@ -143,7 +143,7 @@ My favorite website for free stock images: https://unsplash.com
 The home page is finally coming together. I will leave it as is for now and continue working on the rest of the website. My goal is to have prototype ready for review next week. So far I am pretty happy with the design.
 
 **Link to work:**  <a href="https://github.com/KatyaRobinson/100-days-of-code.git">100DaysOfCode Log</a>
-                    <a href = "https://github.com/KatyaRobinson/movement-source/tree/db4eac7bc8eb2af4ce65436da6ba7db1b2a23780"> Movement Source Commit </a>
+**Link to work 2:**  <a href = "https://github.com/KatyaRobinson/movement-source/tree/db4eac7bc8eb2af4ce65436da6ba7db1b2a23780"> Movement Source Commit </a>
 
 
 

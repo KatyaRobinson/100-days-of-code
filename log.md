@@ -158,6 +158,25 @@ The home page is finally coming together. I will leave it as is for now and cont
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/8e9acac3d55da09f87ddf20c7be3da7779426d19">Movement Source Services Page Commit</a>
 
 
+<hr>
+
+### Day 14: January 11, 2016
+
+**Today's Progress**: Worked on the "Services" page of the Movement Source Website. Refined CSS for the page
+
+**Technology used**: HTML, CSS
+
+**Thoughts:** I feel so foolish for refusing to use Bootstrap for my projects in the past... Such a time saver.  
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c47e2caababa5010007cf44080fa9c3fee8d5cb9">Movement Source Services Page Commit</a>
+
+
+
+
+
+
+
+
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD
 

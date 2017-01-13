@@ -182,7 +182,16 @@ The home page is finally coming together. I will leave it as is for now and cont
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/11de848fa13e9a87b809746f369deaee409dec5a">Movement Source Services Page Commit</a>
 
 
+<hr>
+### Day 16: January 13, 2016
 
+**Today's Progress**: Worked on the "Services" page of the Movement Source Website. Cleaned the code by moving JS to a sepate file. Moved calendar to the bottom of the "Services" page. Made nav stick to the top of the page on scroll, added a logo to the nav-fixed-top.
+
+**Technology used**: JavaScript, jQuery, Bootstrap
+
+**Thoughts:** Pleased with the results of my coding hour today. Refactoring this code will suck... So far my goal is just to make it work, I will worry about pretty code later
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/a547184b995819b12c3f0bf2649b3547e93ca4b9">Movement Source Services Page Commit</a>
 
 
 

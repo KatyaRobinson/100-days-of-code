@@ -170,7 +170,16 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c47e2caababa5010007cf44080fa9c3fee8d5cb9">Movement Source Services Page Commit</a>
 
+<hr>
+### Day 15: January 12, 2016
 
+**Today's Progress**: Worked on the "Services" page of the Movement Source Website - trying to make AJAX loading of calendar happen... #struggleisreal
+
+**Technology used**: JavaScript, jQuery, AJAX
+
+**Thoughts:** I can tell my JavaScript skills are still pretty weak :( Struggling like crazy with the simpliest script, have to google almost every single line. Not giving up though!.. 
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/11de848fa13e9a87b809746f369deaee409dec5a">Movement Source Services Page Commit</a>
 
 
 

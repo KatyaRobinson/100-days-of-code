@@ -195,14 +195,31 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/a547184b995819b12c3f0bf2649b3547e93ca4b9">Movement Source Services Page Commit</a>
 
+<hr>
+### Day 17: January 14, 2016
+
+**Today's Progress**: Worked on the "Services" page of the Movement Source Website. Cleaned my messy code. Added simple-sidebar to the page for easier navigation of the services. Because I used an open-sources sidebar, it is not tailored to my website yet, I'll have to work on making in fit in with the design
+
+**To Do Next** Resize main content container to accomodate for the sidebar. Ideally, the size needs to match other pages' containers. On small screens sidebar needs to dissapear into hamburger or completely. Add smooth scrolling to elements when sidebar button is presses.
+Remove logo on mobile menu
+
+**Technology used**: jQuery
+
+**Thoughts:** I see divs everywhere...
+Changing my coding schedule to mornings has improved my productivity tremendously! I can't believe I've never tried it before. When I come home from work at night, coding is the last thing I want to do. But in the morning I feel motivated and full of energy. Love my coffee and coding PJ parties!
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/50fcd8985966e15fbc31b5f49405f4bb5261f8c9">Movement Source Services Page Sidebar Commit</a>
+
 
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD
 
-### Day 12: January 9, 2016
+### Day 00: Month 00, 0000
 
 **Today's Progress**: 
+
+**To Do Next**:
 
 **Technology used**: 
 

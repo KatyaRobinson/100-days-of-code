@@ -187,6 +187,8 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Cleaned the code by moving JS to a sepate file. Moved calendar to the bottom of the "Services" page. Made nav stick to the top of the page on scroll, added a logo to the nav-fixed-top.
 
+**To Do Next** Sidebar nav for the Services page to simply navigate between the different services offered
+
 **Technology used**: JavaScript, jQuery, Bootstrap
 
 **Thoughts:** Pleased with the results of my coding hour today. Refactoring this code will suck... So far my goal is just to make it work, I will worry about pretty code later

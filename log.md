@@ -211,6 +211,22 @@ Changing my coding schedule to mornings has improved my productivity tremendousl
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/50fcd8985966e15fbc31b5f49405f4bb5261f8c9">Movement Source Services Page Sidebar Commit</a>
 
 
+<hr>
+### Day 18: January 16, 2016
+
+**Today's Progress**: Worked on the "Services" page of the Movement Source Website. Added smooth scrolling to elements when a sidebar button is presses. Resize main content container (#wrapper) to accomodate for the width of the sidebar. Added "Bring me to top" button. Styles the sidebar menu to fit the overall design better.
+
+**To Do Next**  On small screens sidebar needs to dissapear into hamburger or completely. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Organize JS code better.
+
+**Technology used**: jQuery
+
+**Thoughts:** There must be a way to organize HTML better... Back in college I've used PHP to load chunks of HTML into a oage, so all the reusable elements only needed to be coded once. I tried creating sepdrate html files for header and footer and load them with AJAX but that made for an awkward page loading experience when a page would load withouht a header at all and then it would appear and render the page as an afterthought... I know I will find a solution to this problem eventually, for now will just have to deal with messy code... #sadness.
+I can't wait to look at this code a few month from now and cringe... It's crazy how fast you can learn in short time when you have all the resources.
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/9d100021bf0818a5350d2055c7667df9951ac6c0">Movement Source Services Page Sidebar Commit</a>
+
+
+
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD

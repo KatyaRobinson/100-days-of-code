@@ -225,7 +225,18 @@ I can't wait to look at this code a few month from now and cringe... It's crazy 
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/9d100021bf0818a5350d2055c7667df9951ac6c0">Movement Source Services Page Sidebar Commit</a>
 
+<hr>
+### Day 19: January 18, 2016
 
+**Today's Progress**: 
+
+**To Do Next**  On small screens sidebar needs to dissapear into hamburger or completely. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Organize JS code better.
+
+**Technology used**: 
+
+**Thoughts:** 
+
+**Link to work:** <a href="">Movement Source Services Page Sidebar Commit</a>
 
 
 <hr><hr>

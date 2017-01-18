@@ -228,13 +228,13 @@ I can't wait to look at this code a few month from now and cringe... It's crazy 
 <hr>
 ### Day 19: January 18, 2016
 
-**Today's Progress**: 
+**Today's Progress**: Services page: styles sidebar. Added .active class to the sidebar menu elements on click and scroll. Added the new header and footer to the rest of tha pages. Made sidebar collapse on small screens. 
 
-**To Do Next**  On small screens sidebar needs to dissapear into hamburger or completely. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Organize JS code better.
+**To Do Next**  Make services menu open on button click. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Organize JS code better.
 
-**Technology used**: 
+**Technology used**: jQuery
 
-**Thoughts:** 
+**Thoughts:** The code is getting more and more inrticate and I don't even use any fancy technologies... Or maybe it is messy BECAUSE I don't use any fancy technologies?.. Hmmm... :/
 
 **Link to work:** <a href="">Movement Source Services Page Sidebar Commit</a>
 

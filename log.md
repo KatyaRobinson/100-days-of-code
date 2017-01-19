@@ -230,11 +230,13 @@ I can't wait to look at this code a few month from now and cringe... It's crazy 
 
 **Today's Progress**: Services page: styles sidebar. Added .active class to the sidebar menu elements on click and scroll. Added the new header and footer to the rest of tha pages. Made sidebar collapse on small screens. 
 
-**To Do Next**  Make services menu open on button click. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Organize JS code better.
+**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Add Facebook feed.
 
 **Technology used**: jQuery
 
 **Thoughts:** The code is getting more and more inrticate and I don't even use any fancy technologies... Or maybe it is messy BECAUSE I don't use any fancy technologies?.. Hmmm... :/
+The secondary Service menu is driving me insane... It doesn't work as smoothly as the Bootstrap built-in collapsible menu. Thank god for GutHub and ability to roll back to a previous commit. I broke my own code like 5 times today trying to get the stupid menu to work. I'm sure it's something obviuos, I'm just tired. For today I will leave it alone and work on something else.
+I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page with additional pages for people who want to get more info. My portfolio will have a blog-style sidebar meny. I plan of making it feel as a more of a personal blog site rather than resume-style professional showcase.
 
 **Link to work:** <a href="">Movement Source Services Page Sidebar Commit</a>
 

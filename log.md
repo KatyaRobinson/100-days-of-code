@@ -228,9 +228,9 @@ I can't wait to look at this code a few month from now and cringe... It's crazy 
 <hr>
 ### Day 19: January 18, 2016
 
-**Today's Progress**: Services page: styles sidebar. Added .active class to the sidebar menu elements on click and scroll. Added the new header and footer to the rest of tha pages. Made sidebar collapse on small screens. 
+**Today's Progress**: Services page: styles sidebar. Added .active class to the sidebar menu elements on click and scroll. Added the new header and footer to the rest of tha pages. Made sidebar collapse on small screens. Added Facebook feed. Created and started styling Contact page
 
-**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Add Facebook feed.
+**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Move Facebook feed to Contact page. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. 
 
 **Technology used**: jQuery
 

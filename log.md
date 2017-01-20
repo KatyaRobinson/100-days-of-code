@@ -249,15 +249,15 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 <hr>
 ### Day 20: January 21, 2016
 
-**Today's Progress**: 
+**Today's Progress**: Edited footer. Watched Trump talk. Worked on "Secure my spot" button. Now the SelectedService is changed appropriate to the section from where a button was pressed. 
 
-**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Move Facebook feed to Contact page. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. 
+**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Move Facebook feed to Contact page. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. Choose an icon pack and implement with the design. Add social media icons to the footer and header. Fix front page slider click event. Idea: Create a BLOG/NEWS page for future updates and facebook FEED?
 
 **Technology used**: 
 
 **Thoughts:**  I don't know if I can code today. Right now I have US Presidential Inaguration LIVE playing in Twitter in the background... I'll try my best to be productive.
 
-**Link to work:** <a href="">Movement Source</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/4d6baca9ec22c57447f957609c661e2b43372b3b">Movement Source</a>
 
 
 <hr><hr>

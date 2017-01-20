@@ -240,6 +240,11 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 
 **Link to work:** <a href="">Movement Source Commit</a>
 
+<hr>
+### Day 19.2
+
+**Today's Progress**: Didn't do any actual coding, so I won't count this day in the progress. Work was very slow so I had a lot of time to brainstorm my portfolio.2.0 website. Came up with a couple of nice ideas. Drew up first paper mockup, wrote out the main concept, sections, topics to discuss, areas to cover. "Comissioned" my husband to draw a logo. Next steps would be creating a digital mockup and then - to coding!
+
 
 <hr>
 ### Day 20: January 21, 2016

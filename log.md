@@ -270,7 +270,7 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 
 **Thoughts:** I need to re-read some of the JavaScript books I have. The first time I read them was when I didn't have any practical experience. I feel like now, that I have some context, everything will make a lot more sense to me. 
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/4d6baca9ec22c57447f957609c661e2b43372b3b">Movement Source</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/d278848981e87d1c9c5cb03ef00f49fa1c6a1732">Movement Source</a>
 
 
 <hr><hr>

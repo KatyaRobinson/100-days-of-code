@@ -84,7 +84,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** <a href = "https://github.com/KatyaRobinson/roxolana-designs.git">Roxolanna Design Studio Commit </a>
 
 <hr>
-### Day 8: January 5, 2016
+### Day 8: January 5, 2017
 
 **Today's Progress**: "Movement Source" website - Created About Page
 
@@ -95,7 +95,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/e79a7cc6498b0b80a89f9cc1e7199e3b445dfc86">Movement Source Commit</a>
 
 <hr>
-### Day 9: January 6, 2016
+### Day 9: January 6, 2017
 
 **Today's Progress**: "Movement Source" website - Redesigned home page
 
@@ -106,7 +106,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** ummmm... I got the commits confused... As this point I wasn't keeping a log yet - see newer commits to this project below
 
 <hr>
-### Day 10: January 7, 2016
+### Day 10: January 7, 2017
 
 **Today's Progress**: "Movement Source" website - Worked on the Book.js script - appointment request form
 
@@ -117,7 +117,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/c3cb247a0ac60d1d43c11bfb4218ec65cd251b26">Movement Source Commit</a>
 
 <hr>
-### Day 11: January 8, 2016
+### Day 11: January 8, 2017
 
 **Today's Progress**: Reviewed Backend Section of The Web Developer Bootcamp Udemy course; Worked on the appointment booking section of the "Movement Source" website
 
@@ -129,7 +129,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 
 <hr>
 
-### Day 12: January 9, 2016
+### Day 12: January 9, 2017
 
 **Today's Progress**: Set up 100-days-of-code log file. Worked on improving User Interface of the Movement Source home page; fixed links and buttons; added a section on the bottom of the page.
 
@@ -147,7 +147,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 <hr>
 
-### Day 13: January 10, 2016
+### Day 13: January 10, 2017
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Copied text from the old website, styled the elements.
 
@@ -160,7 +160,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 <hr>
 
-### Day 14: January 11, 2016
+### Day 14: January 11, 2017
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Refined CSS for the page
 
@@ -171,7 +171,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c47e2caababa5010007cf44080fa9c3fee8d5cb9">Movement Source Services Page Commit</a>
 
 <hr>
-### Day 15: January 12, 2016
+### Day 15: January 12, 2017
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website - trying to make AJAX loading of calendar happen... #struggleisreal
 
@@ -183,7 +183,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 
 <hr>
-### Day 16: January 13, 2016
+### Day 16: January 13, 2017
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Cleaned the code by moving JS to a sepate file. Moved calendar to the bottom of the "Services" page. Made nav stick to the top of the page on scroll, added a logo to the nav-fixed-top.
 
@@ -196,7 +196,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/a547184b995819b12c3f0bf2649b3547e93ca4b9">Movement Source Services Page Commit</a>
 
 <hr>
-### Day 17: January 14, 2016
+### Day 17: January 14, 2017
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Cleaned my messy code. Added simple-sidebar to the page for easier navigation of the services. Because I used an open-sources sidebar, it is not tailored to my website yet, I'll have to work on making in fit in with the design
 
@@ -212,7 +212,7 @@ Changing my coding schedule to mornings has improved my productivity tremendousl
 
 
 <hr>
-### Day 18: January 16, 2016
+### Day 18: January 16, 2017
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Added smooth scrolling to elements when a sidebar button is presses. Resize main content container (#wrapper) to accomodate for the width of the sidebar. Added "Bring me to top" button. Styles the sidebar menu to fit the overall design better.
 
@@ -226,7 +226,7 @@ I can't wait to look at this code a few month from now and cringe... It's crazy 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/9d100021bf0818a5350d2055c7667df9951ac6c0">Movement Source Services Page Sidebar Commit</a>
 
 <hr>
-### Day 19: January 18, 2016
+### Day 19: January 18, 2017
 
 **Today's Progress**: Services page: styles sidebar. Added .active class to the sidebar menu elements on click and scroll. Added the new header and footer to the rest of tha pages. Made sidebar collapse on small screens. Added Facebook feed. Created and started styling Contact page
 
@@ -247,7 +247,7 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 
 
 <hr>
-### Day 20: January 21, 2016
+### Day 20: January 20, 2017
 
 **Today's Progress**: Edited footer. Watched Trump talk. Worked on "Secure my spot" button. Now the SelectedService is changed appropriate to the section from where a button was pressed. 
 
@@ -256,6 +256,19 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 **Technology used**: 
 
 **Thoughts:**  I don't know if I can code today. Right now I have US Presidential Inaguration LIVE playing in Twitter in the background... I'll try my best to be productive.
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/4d6baca9ec22c57447f957609c661e2b43372b3b">Movement Source</a>
+
+<hr>
+### Day 21: January 21, 2017
+
+**Today's Progress**: Worked on the calendar functionality. Not much progress, JavaScript is my weakness :( Going to have to read some more before attempting this bit... Fixed front slider click event.
+
+**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu.  Move Facebook feed to Contact page. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. Choose an icon pack and implement with the design. Add social media icons to the footer and header.
+
+**Technology used**: 
+
+**Thoughts:** I need to re-read some of the JavaScript books I have. The first time I read them was when I didn't have any practical experience. I feel like now, that I have some context, everything will make a lot more sense to me. 
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/4d6baca9ec22c57447f957609c661e2b43372b3b">Movement Source</a>
 

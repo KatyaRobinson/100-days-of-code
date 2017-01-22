@@ -281,7 +281,7 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 
 **Technology used**: 
 
-**Thoughts:** 
+**Thoughts:** Day 22... I need to finish the Movement Source website, I feel like I'm taking too long working on it for what it is. Everything is ready besides the appointment scheduling functionality. I need to finish that ASAP, do final desing tweaks and present it to the client. Then I'll work on whatever changes she requires, if there are any. But at least I will have a finished project to showcase on my portfolio website. Then I will work on building my new portfolio. 
 
 **Link to work:** <a href="">Movement Source</a>
 

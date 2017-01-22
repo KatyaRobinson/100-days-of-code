@@ -266,12 +266,24 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 
 **To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu.  Move Facebook feed to Contact page. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. Choose an icon pack and implement with the design. Add social media icons to the footer and header.
 
-**Technology used**: 
+**Technology used**: jQuery
 
 **Thoughts:** I need to re-read some of the JavaScript books I have. The first time I read them was when I didn't have any practical experience. I feel like now, that I have some context, everything will make a lot more sense to me. 
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/d278848981e87d1c9c5cb03ef00f49fa1c6a1732">Movement Source</a>
 
+<hr>
+### Day 22: January 22, 2017
+
+**Today's Progress**: 
+
+**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu.  Move Facebook feed to Contact page. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. Choose an icon pack and implement with the design. Add social media icons to the footer and header.
+
+**Technology used**: 
+
+**Thoughts:** 
+
+**Link to work:** <a href="">Movement Source</a>
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD

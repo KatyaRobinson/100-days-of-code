@@ -275,7 +275,7 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 <hr>
 ### Day 22: January 22, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Working on the scheduling functionality. Spent ALLLLLLLLL day off working on JavaScript - custom calandar fnctionality.It is finally working. I know my code is ugly, but currently I am more concerned about functionality. 
 
 **To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu.  Move Facebook feed to Contact page. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. Choose an icon pack and implement with the design. Add social media icons to the footer and header.
 

@@ -275,15 +275,17 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 <hr>
 ### Day 22: January 22, 2017
 
-**Today's Progress**: Working on the scheduling functionality. Spent ALLLLLLLLL day off working on JavaScript - custom calandar fnctionality.It is finally working. I know my code is ugly, but currently I am more concerned about functionality. 
+**Today's Progress**: Working on the scheduling functionality. Spent ALLLLLLLLL day off working on JavaScript - custom calendar fnctionality.It is finally working. I know my code is ugly, but currently I am more concerned about functionality. Created a json file with the class schedule from scratch. Now once a date is clicked, the available time slots get displayd. Each timeslot is a button of its own, when one of those clocked a messaged pops up giving info of what date and time was selected and then the user is prompted to fill up their personal informtion to wrap up the request and them eventually send it in an email. 
 
-**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu.  Move Facebook feed to Contact page. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. Choose an icon pack and implement with the design. Add social media icons to the footer and header.
+**To Do Next**  Make services menu open on button click - Have to leave this for next time. Remove logo on mobile menu. Remoce Facebook comletely unless Blog page is eventually created. On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. Choose an icon pack and implement with the design. Add social media icons to the footer and header. Make "Change Date" button reset calandar. Format and style customer info collecting form. Figure out a way to email all this info to the site owner. Also - style timeSlots responsible for specific classes and add an anchor link to the class description. Oh my god, I'm so tired... All day...
 
-**Technology used**: 
+**Technology used**: JavaScript/jQuery
 
 **Thoughts:** Day 22... I need to finish the Movement Source website, I feel like I'm taking too long working on it for what it is. Everything is ready besides the appointment scheduling functionality. I need to finish that ASAP, do final desing tweaks and present it to the client. Then I'll work on whatever changes she requires, if there are any. But at least I will have a finished project to showcase on my portfolio website. Then I will work on building my new portfolio. 
 
-**Link to work:** <a href="">Movement Source</a>
+Future functionality: save all the requests in a database
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/d724a207af466da47eb39b7ac1e9955b0f70f78f">Movement Source</a>
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD

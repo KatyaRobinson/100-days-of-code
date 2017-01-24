@@ -287,6 +287,29 @@ Future functionality: save all the requests in a database
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/d724a207af466da47eb39b7ac1e9955b0f70f78f">Movement Source</a>
 
+<hr>
+### Day 23: January 24, 2017
+
+**Today's Progress**: Uploaded existing files into a separate folder on my personal (ugly) website, so I can test mobile screen functionality. Completed customer info form that pops up after DATE and TIME for appointment have been selected. Complately removed the "Change date" button as now the date is changed by simply clicking on a new one
+
+**To Do Next**  
+- Make services menu open on button click - Have to leave this for next time. 
+- Remove logo on mobile menu. 
+- Remove Facebook comletely unless Blog page is eventually created. 
+- On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. 
+- Choose an icon pack and implement with the design. 
+- Rework images in Photoshop
+- Add social media icons to the footer and header. 
+- Figure out a way to email all this info to the site owner. 
+- Style timeSlots responsible for specific classes and add an anchor link to the class description.
+
+**Technology used**: JavaScript/jQuery, CSS
+
+**Thoughts:** I need to restart my Photoshop subscription. You can tell the images I'm using are not custom made, Instead of creating my won content, I am using what I can find and then adapt to it. That's not good. Tomorrow is my day off, I'll have a lot of time to work on this project and I will re-create all elements using Photoshop. I can't believe I've been working with no mockup at all this whole time...All I had for this project was some notepad doodles. 
+
+
+**Link to work:** <a href="">Movement Source</a>
+
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD
 

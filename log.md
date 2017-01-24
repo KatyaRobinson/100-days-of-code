@@ -308,7 +308,7 @@ Future functionality: save all the requests in a database
 **Thoughts:** I need to restart my Photoshop subscription. You can tell the images I'm using are not custom made, Instead of creating my won content, I am using what I can find and then adapt to it. That's not good. Tomorrow is my day off, I'll have a lot of time to work on this project and I will re-create all elements using Photoshop. I can't believe I've been working with no mockup at all this whole time...All I had for this project was some notepad doodles. 
 
 
-**Link to work:** <a href="">Movement Source</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/2ecb87b4583c847aab9bdd210f099778dab63687">Movement Source</a>
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD

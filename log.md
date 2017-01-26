@@ -310,6 +310,29 @@ Future functionality: save all the requests in a database
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/2ecb87b4583c847aab9bdd210f099778dab63687">Movement Source</a>
 
+<hr>
+### Day 24: January 26, 2017
+
+**Today's Progress**: 
+
+**To Do Next**  
+- Make services menu open on button click. 
+- Remove logo on mobile menu. 
+- Remove Facebook comletely unless Blog page is eventually created. 
+- On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. 
+- Choose an icon pack and implement with the design. 
+- Rework images in Photoshop
+- Add social media icons to the footer and header. 
+- Figure out a way to email all this info to the site owner. 
+- Style timeSlots responsible for specific classes and add an anchor link to the class description.
+
+**Technology used**: 
+
+**Thoughts:**  As usual, the closer to the end of the project I get, the less motivation there is. All the easy stuff has been done and everyhting that remains is the tasks that I've been putting off either because they are boring or because I don't quite know how to complete them... But I have to power through that. I'm so close to finishing.
+
+
+**Link to work:** <a href="">Movement Source</a>
+
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD
 

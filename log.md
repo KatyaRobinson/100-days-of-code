@@ -313,7 +313,7 @@ Future functionality: save all the requests in a database
 <hr>
 ### Day 24: January 26, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Styled timeSlots according to type of class. Minor additions to JS file (new tyoe of class)
 
 **To Do Next**  
 - Make services menu open on button click. 
@@ -326,7 +326,7 @@ Future functionality: save all the requests in a database
 - Figure out a way to email all this info to the site owner. 
 - Style timeSlots responsible for specific classes and add an anchor link to the class description.
 
-**Technology used**: 
+**Technology used**: CSS
 
 **Thoughts:**  As usual, the closer to the end of the project I get, the less motivation there is. All the easy stuff has been done and everyhting that remains is the tasks that I've been putting off either because they are boring or because I don't quite know how to complete them... But I have to power through that. I'm so close to finishing.
 

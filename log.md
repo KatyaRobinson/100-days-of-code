@@ -335,9 +335,9 @@ Future functionality: save all the requests in a database
 
 
 <hr>
-### Day 24: January 26, 2017
+### Day 25: January 27, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Styled the calendar some more.
 
 **To Do Next**  
 - Make services menu open on button click. 
@@ -350,9 +350,13 @@ Future functionality: save all the requests in a database
 - Figure out a way to email all this info to the site owner. 
 - Style timeSlots responsible for specific classes and add an anchor link to the class description.
 
-**Technology used**: The big problem right now is how to send all the form information via email to the site owner... I was trying to avoid backend for this project but it seems like I might have to go there....
+**Technology used**: 
 
-**Thoughts:**  
+**Thoughts:**  Whoohoo quater of the way there!!! Looked up CssDailyChallenge today, I really want to do it! Design is definitely my weak spot and I need to work on getting better at it. Also, I really need to finally finish FreeCodeCamp FrontEndCertificate. I will either get to it after submitting the first version of Movement Source website to the client and waiting for feedback or maybe I'll work on some in between my main work sessions...
+1. CSSDailyChallnge
+2. FreeCodeCamp
+
+The big problem right now is how to send all the form information via email to the site owner... I was trying to avoid backend for this project but it seems like I might have to go there....
 
 **Link to work:** <a href="">Movement Source</a>
 

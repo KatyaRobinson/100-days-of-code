@@ -333,6 +333,29 @@ Future functionality: save all the requests in a database
 
 **Link to work:** <a href="11994106196d1560b73657fa87dd08c3abccc5b8">Movement Source</a>
 
+
+<hr>
+### Day 24: January 26, 2017
+
+**Today's Progress**: 
+
+**To Do Next**  
+- Make services menu open on button click. 
+- Remove logo on mobile menu. 
+- Remove Facebook comletely unless Blog page is eventually created. 
+- On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. 
+- Choose an icon pack and implement with the design. 
+- Rework images in Photoshop
+- Add social media icons to the footer and header. 
+- Figure out a way to email all this info to the site owner. 
+- Style timeSlots responsible for specific classes and add an anchor link to the class description.
+
+**Technology used**: The big problem right now is how to send all the form information via email to the site owner... I was trying to avoid backend for this project but it seems like I might have to go there....
+
+**Thoughts:**  
+
+**Link to work:** <a href="">Movement Source</a>
+
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD
 

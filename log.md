@@ -337,20 +337,21 @@ Future functionality: save all the requests in a database
 <hr>
 ### Day 25: January 27, 2017
 
-**Today's Progress**: Styled the calendar some more.
+**Today's Progress**: Styled timeSlots according to specific classTypes. Decided to link a database to store appointment requests. Time to revisit my DelTech's PHP course notes.
 
 **To Do Next**  
-- Make services menu open on button click. 
-- Remove logo on mobile menu. 
+- Add database connection - PHP
+- Make services menu open on button click. - jQuery
+- Remove logo on mobile menu.  - CSS
 - Remove Facebook comletely unless Blog page is eventually created. 
 - On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. 
 - Choose an icon pack and implement with the design. 
 - Rework images in Photoshop
-- Add social media icons to the footer and header. 
-- Figure out a way to email all this info to the site owner. 
-- Style timeSlots responsible for specific classes and add an anchor link to the class description.
+- Add social media icons to the footer and header. - HTML, CSS
+- Figure out a way to email all this info to the site owner. - PHP
+-  and add an anchor link to the class description. - HTML, CSS
 
-**Technology used**: 
+**Technology used**: PHP
 
 **Thoughts:**  Whoohoo quater of the way there!!! Looked up CssDailyChallenge today, I really want to do it! Design is definitely my weak spot and I need to work on getting better at it. Also, I really need to finally finish FreeCodeCamp FrontEndCertificate. I will either get to it after submitting the first version of Movement Source website to the client and waiting for feedback or maybe I'll work on some in between my main work sessions...
 1. CSSDailyChallnge

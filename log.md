@@ -381,7 +381,7 @@ The big problem right now is how to send all the form information via email to t
 
 **Thoughts:** Spent another day off tinkering with the Movemnet Source website. I know one of those days all this hard work will pay off... SIgned up for CssDailyImages challenge and about to start on the very first image. Feel tired.
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/dd36a12d6c9517cf5a22235a4fccd3b8cdccae44">Movement Source</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/ac9f7bb144b28c881f67be49ff14ef5665688632">Movement Source Database Connection</a>
 
 
 <hr><hr>

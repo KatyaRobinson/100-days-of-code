@@ -361,6 +361,29 @@ The big problem right now is how to send all the form information via email to t
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/dd36a12d6c9517cf5a22235a4fccd3b8cdccae44">Movement Source</a>
 
+<hr>
+### Day 26: January 29, 2017
+
+**Today's Progress**: Used PHP and AJAX to submit form with appointment request and stored user info into a database. 
+
+**To Do Next**  
+- Make services menu open on button click. - jQuery
+- Remove logo on mobile menu.  - CSS
+- Remove Facebook comletely unless Blog page is eventually created. 
+- On mobile screen adjust size of logo and menu toggle button to make them fit on one row together. 
+- Choose an icon pack and implement with the design. 
+- Rework images in Photoshop
+- Add social media icons to the footer and header. - HTML, CSS
+- Figure out a way to email all this info to the site owner. - PHP
+-  and add an anchor link to the class description. - HTML, CSS
+
+**Technology used**: PHP, AJAX
+
+**Thoughts:** Spent another day off tinkering with the Movemnet Source website. I know one of those days all this hard work will pay off... SIgned up for CssDailyImages challenge and about to start on the very first image. Feel tired.
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/dd36a12d6c9517cf5a22235a4fccd3b8cdccae44">Movement Source</a>
+
+
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD
 

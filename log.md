@@ -389,7 +389,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 <hr>
 ### Day 27: January 30, 2017
 
-**Today's Progress**: - On mobile screen adjustув size of logo and menu toggle button to make them fit on one row together. 
+**Today's Progress**: - On mobile screen adjustув size of logo and menu toggle button to make them fit on one row together. Forked and edited portfolio to hold all of my pure css daily images.
 
 **To Do Next**  
 - Make services menu open on button click. - jQuery
@@ -413,7 +413,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 **Thoughts:** Decided to finally get to my ToDo list. Started with the header. Taking a break from more complicated scripts. Today's image of the day is an elephant. So far I have to idea how to draw that with pure CSS but I have a whole BORING day at work to figure it out...
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/b78edc6fd1f57ebdfb9d1a79451dcba52353177d">Movement Source Lousy Commit</a>
-<a href = ""> CSSDailyImages Bear Cup Image</a>
+<a href = "http://codepen.io/katyarobinson/pen/OWzXOK"> CSSDailyImages Portfolio Forked and Edited</a>
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD

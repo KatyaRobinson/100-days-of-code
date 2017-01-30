@@ -412,7 +412,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 **Thoughts:** Decided to finally get to my ToDo list. Started with the header. Taking a break from more complicated scripts. Today's image of the day is an elephant. So far I have to idea how to draw that with pure CSS but I have a whole BORING day at work to figure it out...
 
-**Link to work:** <a href=">Movement Source Database Connection</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/b78edc6fd1f57ebdfb9d1a79451dcba52353177d">Movement Source Lousy Commit</a>
 <a href = ""> CSSDailyImages Bear Cup Image</a>
 
 <hr><hr>

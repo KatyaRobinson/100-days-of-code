@@ -401,6 +401,10 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 - Figure out a way to email all this info to the site owner. - PHP
 -  and add an anchor link to the class description. - HTML, CSS
 - Create a page for the site owner to log in to and see all requests
+- Restyle Appointment Request form
+- Require all fields except for message on the Request Appointment form
+- Check form input before submitting
+- Work on visual effect after submitting the form. Fade it out and fade in the success message in green
 
 **Technology used**: CSS
 

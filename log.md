@@ -365,6 +365,7 @@ The big problem right now is how to send all the form information via email to t
 ### Day 26: January 29, 2017
 
 **Today's Progress**: Used PHP and AJAX to submit form with appointment request and stored user info into a database. 
+Started on CSSDailyImages challenge - made my very first one pure CSS image - a bear cup!
 
 **To Do Next**  
 - Make services menu open on button click. - jQuery
@@ -382,6 +383,7 @@ The big problem right now is how to send all the form information via email to t
 **Thoughts:** Spent another day off tinkering with the Movemnet Source website. I know one of those days all this hard work will pay off... SIgned up for CssDailyImages challenge and about to start on the very first image. Feel tired.
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/ac9f7bb144b28c881f67be49ff14ef5665688632">Movement Source Database Connection</a>
+<a href = "http://codepen.io/katyarobinson/pen/wgpGNR?editors=1100#0"> CSSDailyImages Bear Cup Image</a>
 
 
 <hr><hr>

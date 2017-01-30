@@ -405,6 +405,8 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 - Require all fields except for message on the Request Appointment form
 - Check form input before submitting
 - Work on visual effect after submitting the form. Fade it out and fade in the success message in green
+- Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
+- Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
 
 **Technology used**: CSS
 

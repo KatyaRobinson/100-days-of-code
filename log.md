@@ -386,6 +386,29 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 <a href = "http://codepen.io/katyarobinson/pen/wgpGNR?editors=1100#0"> CSSDailyImages Bear Cup Image</a>
 
 
+<hr>
+### Day 27: January 30, 2017
+
+**Today's Progress**: - On mobile screen adjustув size of logo and menu toggle button to make them fit on one row together. 
+
+**To Do Next**  
+- Make services menu open on button click. - jQuery
+- Remove logo on mobile menu.  - CSS
+- Remove Facebook comletely unless Blog page is eventually created. 
+- Choose an icon pack and implement with the design. 
+- Rework images in Photoshop
+- Add social media icons to the footer and header. - HTML, CSS
+- Figure out a way to email all this info to the site owner. - PHP
+-  and add an anchor link to the class description. - HTML, CSS
+- Create a page for the site owner to log in to and see all requests
+
+**Technology used**: CSS
+
+**Thoughts:** Decided to finally get to my ToDo list. Started with the header. Taking a break from more complicated scripts. Today's image of the day is an elephant. So far I have to idea how to draw that with pure CSS but I have a whole BORING day at work to figure it out...
+
+**Link to work:** <a href=">Movement Source Database Connection</a>
+<a href = ""> CSSDailyImages Bear Cup Image</a>
+
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD
 

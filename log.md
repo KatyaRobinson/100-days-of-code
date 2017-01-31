@@ -415,7 +415,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/b78edc6fd1f57ebdfb9d1a79451dcba52353177d">Movement Source Lousy Commit</a>
 <a href = "http://codepen.io/katyarobinson/pen/OWzXOK"> CSSDailyImages Portfolio Forked and Edited</a>
 
-### Day 27: January 30, 2017
+### Day 28: January 31, 2017
 
 **Today's Progress**: Finished css-drawing an elephant. Started working on him yesterday at work but was too tired to finish when I got home
 

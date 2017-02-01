@@ -443,13 +443,14 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 29: February 1, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started working on form validation using an open sourced Validator script
 
 **To Do Next**  
 - Make services menu open on button click. - jQuery
-- Remove logo on mobile menu.  - CSS
+- Restyle BringMeToTop arrow so it's visible on white background
 - Choose an icon pack and implement with the design. 
 - Rework images in Photoshop
+- Add color to the top menu in mobile version???
 - Add social media icons to the footer and header. - HTML, CSS
 - Figure out a way to email all this info to the site owner. - PHP
 -  and add an anchor link to the class description. - HTML, CSS
@@ -459,12 +460,12 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
 - Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
 
-**Technology used**: 
+**Technology used**: JavaScript
 
 **Thoughts:** Was called into work an hour earlier, so I only have 45 mins to code today. Decided to work on small bug fixes.
 
 **Link to work:** <a href="">Movement Source Commit</a>
-<a href = ""> CSSDailyImages Day 2: Elephant</a>
+<a href = ""> CSSDailyImages </a>
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD

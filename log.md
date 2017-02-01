@@ -464,7 +464,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 **Thoughts:** Was called into work an hour earlier, so I only have 45 mins to code today. Decided to work on small bug fixes.
 
-**Link to work:** <a href="">Movement Source Commit</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c3deea5eb30a56beaedcce48cf66e636bd69b759">Movement Source Commit</a>
 <a href = ""> CSSDailyImages </a>
 
 <hr><hr>

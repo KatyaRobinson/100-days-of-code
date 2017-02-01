@@ -437,7 +437,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 **Thoughts:** I am more excited to start working on the dailycssimages challnege this morning. Maybe because it is new and fresh, or maybe because the Movement Source website has become too overwhelming of a project... I know I just need to start fall into the mood. 
 
-**Link to work:** <a href="">Movement Source Commit</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/54a459e6e27cf300a6f5e0128ee1df4d916d2826">Movement Source Commit</a>
 <a href = "http://codepen.io/katyarobinson/full/XpVORv/"> CSSDailyImages Day 2: Elephant</a>
 
 <hr><hr>

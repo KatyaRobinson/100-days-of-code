@@ -417,26 +417,23 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 28: January 31, 2017
 
-**Today's Progress**: Finished css-drawing an elephant. Started working on him yesterday at work but was too tired to finish when I got home
+**Today's Progress**: Finished css-drawing an elephant. Started working on him yesterday at work but was too tired to finish when I got home. Worked on my big website project, improved UI. Now when user is prompted to make an appointment, the calendar shows up on top of the screen without any other distractions. Removed Facebook completely. Worked on emailing script, no luck so far :/
 
 **To Do Next**  
 - Make services menu open on button click. - jQuery
 - Remove logo on mobile menu.  - CSS
-- Remove Facebook comletely unless Blog page is eventually created. 
 - Choose an icon pack and implement with the design. 
 - Rework images in Photoshop
 - Add social media icons to the footer and header. - HTML, CSS
 - Figure out a way to email all this info to the site owner. - PHP
 -  and add an anchor link to the class description. - HTML, CSS
 - Create a page for the site owner to log in to and see all requests
-- Restyle Appointment Request form
 - Require all fields except for message on the Request Appointment form
 - Check form input before submitting
-- Work on visual effect after submitting the form. Fade it out and fade in the success message in green
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
 - Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
 
-**Technology used**: CSS
+**Technology used**: CSS, PHP, jQuery.
 
 **Thoughts:** I am more excited to start working on the dailycssimages challnege this morning. Maybe because it is new and fresh, or maybe because the Movement Source website has become too overwhelming of a project... I know I just need to start fall into the mood. 
 

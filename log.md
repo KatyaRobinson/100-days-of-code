@@ -465,7 +465,31 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 **Thoughts:** Was called into work an hour earlier, so I only have 45 mins to code today. Decided to work on small bug fixes.
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c3deea5eb30a56beaedcce48cf66e636bd69b759">Movement Source Commit</a>
-<a href = ""> CSSDailyImages </a>
+
+### Day 30: February 2, 2017
+
+**Today's Progress**: 
+
+**To Do Next**  
+- Make services menu open on button click. - jQuery
+- Restyle BringMeToTop arrow so it's visible on white background
+- Choose an icon pack and implement with the design. 
+- Rework images in Photoshop
+- Add color to the top menu in mobile version???
+- Add social media icons to the footer and header. - HTML, CSS
+- Figure out a way to email all this info to the site owner. - PHP
+-  and add an anchor link to the class description. - HTML, CSS
+- Create a page for the site owner to log in to and see all requests
+- Require all fields except for message on the Request Appointment form
+- Check form input before submitting
+- Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
+- Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
+
+**Technology used**: 
+
+**Thoughts:** 
+
+**Link to work:** <a href="">Movement Source Commit</a>
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD

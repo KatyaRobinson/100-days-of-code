@@ -468,7 +468,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 30: February 2, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Continued battling with form validation - it was supposed to take me 15 minutes, not 2 different 1-hour coding sessions. Better luck to me tomorrow :( 
 
 **To Do Next**  
 - Make services menu open on button click. - jQuery
@@ -485,11 +485,11 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
 - Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
 
-**Technology used**: 
+**Technology used**: jQuery
 
-**Thoughts:** 
+**Thoughts:** One of those days when no matter how much I struggle, nothing comes my way :( 
 
-**Link to work:** <a href="">Movement Source Commit</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/aee2bdad9a40476fd65495feee74cf953c83d38f">Movement Source Commit</a>
 
 <hr><hr>
 NOTE: TEMPLATE FOR LOG RECORD

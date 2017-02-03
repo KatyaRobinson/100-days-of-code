@@ -493,9 +493,10 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 31: February 2, 2017
 
-**Today's Progress**: Form validation finally works YES! :)))  Restyled BringMeToTop arrow so it's visible on white background
+**Today's Progress**: Form validation finally works YES! :)))  Restyled BringMeToTop arrow so it's visible on white background. Started working on log in page for site admin
 
 **To Do Next**  
+
 <strong>Functionality: </strong>
 - Make services menu open on button click. - jQuery 
 - Add social media icons to the footer and header. - HTML, CSS
@@ -509,11 +510,11 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
 - Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
 
-**Technology used**: jQuery
+**Technology used**: jQuery, PHP
 
 **Thoughts:** It feels good when things are finally working like intended :) ANother proof that somwtimes what it takes is just walking away from the editor and revisiting the project a little later. The curse, or, rather - blessing of a fresh eye!
 
-**Link to work:** <a href="">Movement Source Commit</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/493d4da385c370fd56e609dc7b8fb211295b3aa4">Movement Source Commit</a>
 
 
 <hr><hr>

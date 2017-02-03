@@ -502,6 +502,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 - Figure out a way to email all this info to the site owner. - PHP
 -  and add an anchor link to the class description. - HTML, CSS
 - Create a page for the site owner to log in to and see all requests
+
 <strong>Styling</strong>
 - Choose an icon pack and implement with the design.
 - Add color to the top menu in mobile version???

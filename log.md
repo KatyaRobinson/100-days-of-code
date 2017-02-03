@@ -493,7 +493,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 31: February 2, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Form validation finally works YES! :))) 
 
 **To Do Next**  
 - Make services menu open on button click. - jQuery
@@ -505,14 +505,12 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 - Figure out a way to email all this info to the site owner. - PHP
 -  and add an anchor link to the class description. - HTML, CSS
 - Create a page for the site owner to log in to and see all requests
-- Require all fields except for message on the Request Appointment form
-- Check form input before submitting
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
 - Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
 
-**Technology used**: 
+**Technology used**: jQuery
 
-**Thoughts:** 
+**Thoughts:** It feels good when things are finally working like intended :) ANother proof that somwtimes what it takes is just walking away from the editor and revisiting the project a little later. The curse, or, rather - blessing of a fresh eye!
 
 **Link to work:** <a href="">Movement Source Commit</a>
 

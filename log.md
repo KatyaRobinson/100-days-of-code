@@ -496,13 +496,13 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 **Today's Progress**: Form validation finally works YES! :)))  Restyled BringMeToTop arrow so it's visible on white background
 
 **To Do Next**  
-Functionality: 
+<strong>Functionality: </strong>
 - Make services menu open on button click. - jQuery 
 - Add social media icons to the footer and header. - HTML, CSS
 - Figure out a way to email all this info to the site owner. - PHP
 -  and add an anchor link to the class description. - HTML, CSS
 - Create a page for the site owner to log in to and see all requests
-Styling
+<strong>Styling</strong>
 - Choose an icon pack and implement with the design.
 - Add color to the top menu in mobile version???
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page

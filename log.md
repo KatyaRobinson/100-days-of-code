@@ -491,7 +491,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/aee2bdad9a40476fd65495feee74cf953c83d38f">Movement Source Commit</a>
 
-### Day 31: February 2, 2017
+### Day 31: February 3, 2017
 
 **Today's Progress**: Form validation finally works YES! :)))  Restyled BringMeToTop arrow so it's visible on white background. Started working on log in page for site admin
 
@@ -515,6 +515,18 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 **Thoughts:** It feels good when things are finally working like intended :) ANother proof that somwtimes what it takes is just walking away from the editor and revisiting the project a little later. The curse, or, rather - blessing of a fresh eye!
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/493d4da385c370fd56e609dc7b8fb211295b3aa4">Movement Source Commit</a>
+
+### Day 32: February 4, 2017
+
+**Today's Progress**: 
+
+**To Do Next**  
+
+**Technology used**: 
+
+**Thoughts:** Today I literally have 30 mins so I am working on dailycssimages challenge - day 3 Beaver
+
+**Link to work:** 
 
 
 <hr><hr>

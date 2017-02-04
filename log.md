@@ -518,15 +518,15 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 32: February 4, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started working on Beaver, found image to inspire me, chose colors, started coding. Gotta go to work
 
-**To Do Next**  
+**To Do Next**  Finish the beaver, read up on Flex - I see it all over codepen
 
-**Technology used**: 
+**Technology used**: CSS
 
 **Thoughts:** Today I literally have 30 mins so I am working on dailycssimages challenge - day 3 Beaver
 
-**Link to work:** 
+**Link to work:** <a href="http://codepen.io/katyarobinson/pen/LxrVza"> Beaver </a>
 
 
 <hr><hr>

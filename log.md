@@ -495,26 +495,13 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 **Today's Progress**: Form validation finally works YES! :)))  Restyled BringMeToTop arrow so it's visible on white background. Started working on log in page for site admin
 
-**To Do Next**  
-
-<strong>Functionality: </strong>
-- Make services menu open on button click. - jQuery 
-- Add social media icons to the footer and header. - HTML, CSS
-- Figure out a way to email all this info to the site owner. - PHP
--  and add an anchor link to the class description. - HTML, CSS
-- Create a page for the site owner to log in to and see all requests
-
-<strong>Styling</strong>
-- Choose an icon pack and implement with the design.
-- Add color to the top menu in mobile version???
-- Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
-- Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
-
 **Technology used**: jQuery, PHP
 
 **Thoughts:** It feels good when things are finally working like intended :) ANother proof that somwtimes what it takes is just walking away from the editor and revisiting the project a little later. The curse, or, rather - blessing of a fresh eye!
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/493d4da385c370fd56e609dc7b8fb211295b3aa4">Movement Source Commit</a>
+
+<hr> 
 
 ### Day 32: February 4, 2017
 
@@ -528,21 +515,41 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 **Link to work:** <a href="http://codepen.io/katyarobinson/pen/LxrVza"> Beaver </a>
 
+<hr>
 
-<hr><hr>
-NOTE: TEMPLATE FOR LOG RECORD
-
-### Day 00: Month 00, 0000
+### Day 33: February 5, 2017
 
 **Today's Progress**: 
 
-**To Do Next**:
-
-**Technology used**: 
+**Technology used**:
 
 **Thoughts:** 
 
 **Link to work:** 
+
+<hr> <hr>
+**To Do Next**  
+### The Movement Source Website
+<strong>Functionality: </strong>
+- Make services menu open on button click. - jQuery 
+- Add social media icons to the footer and header. - HTML, CSS
+- Figure out a way to email all this info to the site owner. - PHP
+-  and add an anchor link to the class description. - HTML, CSS
+- Create a page for the site owner to log in to and see all requests
+
+<strong>Styling</strong>
+- Choose an icon pack and implement with the design.
+- Add color to the top menu in mobile version???
+- Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
+- Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
+
+###CSSDailyImages
+- 3: Beaver
+- 4: Tiger (Don't worry. It can be still be cute and simple. Just a face is still perfectly ok.)
+- 5: Favorite animated animal (End the animal series with a bang! Dig deep and pull out that creativity. Dory? Snoopy?  What animated animal would you like to showcase?)
+- 6: Clock (Tick tock! Back to the journey)
+- 7: Ruler (This one is gonna rule)
+
 
 
 

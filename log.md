@@ -519,7 +519,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 33: February 5, 2017
 
-**Today's Progress**: Finished form validation, submission and storing input information in database.
+**Today's Progress**: Finished form validation, submission and storing input information in database. Prevent logo from appearing on mobile menu.
 
 **Technology used**: jQuery, AJAX, CSS
 

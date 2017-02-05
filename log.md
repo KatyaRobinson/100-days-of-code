@@ -519,11 +519,12 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 33: February 5, 2017
 
-**Today's Progress**: Finished form validation, submission and storing input information in database. Prevent logo from appearing on mobile menu.
+**Today's Progress**: Finished form validation, submission and storing input information in database. Prevent logo from appearing on mobile menu. "Fixed" sending form submission via email.
 
 **Technology used**: jQuery, AJAX, CSS
 
 **Thoughts:** Took me embarassingly long time to get such small projects done. Тяжело в учении, легко в бою. 
+Programming Gods have been kind to me today - php email() all of a sudden started working! I just checked my enmail and saw 47 email from my form submission tests. I have no idea why it works now and it is scary.
 
 **Link to work:** 
 

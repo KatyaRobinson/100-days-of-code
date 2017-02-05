@@ -519,11 +519,11 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 ### Day 33: February 5, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Finished form validation, submission and storing input information in database.
 
-**Technology used**:
+**Technology used**: jQuery, AJAX, CSS
 
-**Thoughts:** 
+**Thoughts:** Took me embarassingly long time to get such small projects done. Тяжело в учении, легко в бою. 
 
 **Link to work:** 
 

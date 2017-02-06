@@ -527,7 +527,20 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 Programming Gods have been kind to me today - php email() all of a sudden started working! I just checked my enmail and saw 47 email from my form submission tests. I have no idea why it works now and it is scary.
 I feel so stupid. That one day I battled with PHP login script and got nothing done was because I was looking for a PASSCODE instead of PASSWORD. So dumb.
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/6322796967136ee9157e5b390dbe4988abdaaa3b"></a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/6322796967136ee9157e5b390dbe4988abdaaa3b">Movement Source Website</a>
+
+<hr>
+
+### Day 33: February 5, 2017
+
+**Today's Progress**: Finished pure CSS Beaver today
+
+**Technology used**: CSS
+
+**Thoughts:** CSS-ing is so relazing. I really like doing it.
+
+**Link to work:** <a href="http://codepen.io/katyarobinson/full/LxrVza/"> CSSDailyImages Beaver</a>
+
 
 <hr> <hr>
 **To Do Next**  
@@ -546,11 +559,11 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 - Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
 
 ###CSSDailyImages
-- 3: Beaver
 - 4: Tiger (Don't worry. It can be still be cute and simple. Just a face is still perfectly ok.)
 - 5: Favorite animated animal (End the animal series with a bang! Dig deep and pull out that creativity. Dory? Snoopy?  What animated animal would you like to showcase?)
 - 6: Clock (Tick tock! Back to the journey)
 - 7: Ruler (This one is gonna rule)
+- 8. Notepad (Any shape, size, or kind will do.)
 
 
 

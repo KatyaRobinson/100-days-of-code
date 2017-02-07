@@ -541,6 +541,18 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 **Link to work:** <a href="http://codepen.io/katyarobinson/full/LxrVza/"> CSSDailyImages Beaver</a>
 
+<hr>
+
+### Day 34: February 6, 2017
+
+**Today's Progress**: Worked on DailyCSSImages Tiger
+
+**Technology used**: CSS
+
+**Thoughts:** I want to get really really good at making CSS images
+
+**Link to work:** <a href="http://codepen.io/katyarobinson/pen/oBMZKq?editors=1100"> CSSDailyImages Tiger</a>
+
 
 <hr> <hr>
 **To Do Next**  

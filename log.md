@@ -553,6 +553,18 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 **Link to work:** <a href="http://codepen.io/katyarobinson/pen/oBMZKq?editors=1100"> CSSDailyImages Tiger</a>
 
+<hr>
+
+### Day 35: February 10, 2017
+
+**Today's Progress**: 
+
+**Technology used**: 
+
+**Thoughts:** Took a 4-day break due to some life events and I gotta tell ya - it felt good to open my laptop lid and see this log on screen. I feel home :) With the Valentine's day coming it's getting very busy at work and I am scheduled to work all day every single day. Today I am planning on contimuying working on the Movement Source website, bring it another step close to launching.
+
+**Link to work:** <a href=""> </a>
+
 
 <hr> <hr>
 **To Do Next**  

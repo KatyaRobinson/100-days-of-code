@@ -557,7 +557,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 ### Day 35: February 10, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Removed services from the mobile menu. 
 
 **Technology used**: 
 
@@ -570,7 +570,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 **To Do Next**  
 ### The Movement Source Website
 <strong>Functionality: </strong>
-- Remove services from the mobile menu. At least for the time being. 
+
 - Add social media icons to the footer and header. - HTML, CSS
 - Figure out a way to email all this info to the site owner. - PHP 
 -  and add an anchor link to the class description. - HTML, CSS

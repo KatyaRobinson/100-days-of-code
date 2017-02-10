@@ -574,6 +574,8 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 - Add social media icons to the footer and header. - HTML, CSS
 - Figure out a way to email all this info to the site owner. - PHP 
 -  and add an anchor link to the class description. - HTML, CSS
+- Style appointment requests in a better way. Sort by dates and class types.
+- Add ability to click on every request, review it and reply directly to the customer.
 
 <strong>Styling</strong>
 - Choose an icon pack and implement with the design.

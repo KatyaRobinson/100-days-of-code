@@ -570,20 +570,19 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 **To Do Next**  
 ### The Movement Source Website
 <strong>Functionality: </strong>
-- Make services menu open on button click. - jQuery 
+- Remove services from the mobile menu. At least for the time being. 
 - Add social media icons to the footer and header. - HTML, CSS
-- Figure out a way to email all this info to the site owner. - PHP
+- Figure out a way to email all this info to the site owner. - PHP 
 -  and add an anchor link to the class description. - HTML, CSS
-- Create a page for the site owner to log in to and see all requests
 
 <strong>Styling</strong>
 - Choose an icon pack and implement with the design.
 - Add color to the top menu in mobile version???
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
 - Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
+- Style website admin pages
 
 ###CSSDailyImages
-- 4: Tiger (Don't worry. It can be still be cute and simple. Just a face is still perfectly ok.)
 - 5: Favorite animated animal (End the animal series with a bang! Dig deep and pull out that creativity. Dory? Snoopy?  What animated animal would you like to showcase?)
 - 6: Clock (Tick tock! Back to the journey)
 - 7: Ruler (This one is gonna rule)

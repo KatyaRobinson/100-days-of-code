@@ -573,9 +573,10 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 **Technology used**: jQuery
 
-**Thoughts:** I'm ready to be done with this project
+**Thoughts:** I'm ready to be done with this project. But I have a really cool idea for the animated animals project ) 
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c40da1e2c9172c1102bc65c8e25ca5706146f1c4"> </a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c40da1e2c9172c1102bc65c8e25ca5706146f1c4"> Movement Source Website</a>
+<a href= "http://codepen.io/katyarobinson/pen/rjQEey"> DailyCSSImages Day 5 - Favorite animated animal </a>
 
 
 <hr> <hr>

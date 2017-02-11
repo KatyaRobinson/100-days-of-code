@@ -569,11 +569,11 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 ### Day 36: February 11, 2017
 
-**Today's Progress**: Restyled About Us page
+**Today's Progress**: Restyled About Us page. Added validation for phone number. Deleted unused files from the website folder. Fixed buttons on Services page.
 
-**Technology used**: 
+**Technology used**: jQuery
 
-**Thoughts:** 
+**Thoughts:** I'm ready to be done with this project
 
 **Link to work:** <a href=""> </a>
 

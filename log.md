@@ -569,7 +569,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 ### Day 36: February 11, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Restyled About Us page
 
 **Technology used**: 
 
@@ -593,7 +593,6 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 - Choose an icon pack and implement with the design.
 - Add color to the top menu in mobile version???
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
-- Restyle About Us page. Put picture into a circle or some sort of frame. Doesn't look good now.
 - Style website admin pages
 
 ###CSSDailyImages

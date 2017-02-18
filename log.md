@@ -593,11 +593,13 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 <hr>
 ### Day 38: February 18, 2017
 
-**Today's Progress**: 
+**Today's Progress**: No progress. Just frustrated, wrecked brain... Sad day.
 
-**Technology used**: 
+**Technology used**: PHP, not very successfully though...
 
 **Thoughts:** Kind of took a week off because of the Valentine's day. No, not because I was celebrated, but because everyone waits till the very last day to buy gitfts to their loved ones, so work was incredibly busy. Well and then my husband and I took a little 2 day trip to Delaware to visit family and friends. I worked hard, I feel like I deserve it. But now I am happy to be back in my routine. 
+I will have 3 full days off next week. My plan is to drive somewhere where I can work uninterupted and where I can't can distracted by my own house chores and work on the backened of the MS project, specifically - figuring out a way to open and hopefully interact with specific masages pulled from dataabase.... 
+Spent en entire hour trying to sort the appointment requests by date and did't come up with anything working. PHP is not my thing... I feel so dumb...
 
 **Link to work:** 
 <a href= "http://codepen.io/katyarobinson/pen/rjQEey"> DailyCSSImages Day 5 - Favorite animated animal </a>
@@ -620,7 +622,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 - Style website admin pages
 
 ###CSSDailyImages
-- 5: Favorite animated animal (End the animal series with a bang! Dig deep and pull out that creativity. Dory? Snoopy?  What animated animal would you like to showcase?)
+
 - 6: Clock (Tick tock! Back to the journey)
 - 7: Ruler (This one is gonna rule)
 - 8. Notepad (Any shape, size, or kind will do.)

@@ -601,8 +601,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 I will have 3 full days off next week. My plan is to drive somewhere where I can work uninterupted and where I can't can distracted by my own house chores and work on the backened of the MS project, specifically - figuring out a way to open and hopefully interact with specific masages pulled from dataabase.... 
 Spent en entire hour trying to sort the appointment requests by date and did't come up with anything working. PHP is not my thing... I feel so dumb...
 
-**Link to work:** 
-<a href= "http://codepen.io/katyarobinson/pen/rjQEey"> DailyCSSImages Day 5 - Favorite animated animal </a>
+**Link to work:** Nada
 
 <hr> <hr>
 **To Do Next**  

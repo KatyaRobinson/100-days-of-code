@@ -578,6 +578,29 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c40da1e2c9172c1102bc65c8e25ca5706146f1c4"> Movement Source Website</a>
 <a href= "http://codepen.io/katyarobinson/pen/rjQEey"> DailyCSSImages Day 5 - Favorite animated animal </a>
 
+<hr>
+### Day 37: February 12, 2017
+
+**Today's Progress**: Finished dailycssimages Day 5 - Favorite Animated Animal(s)
+**Technology used**: Pure CSS
+
+**Thoughts:** I'm happy with the way my animated cat and dog turned out. It's definitely not perfect, but it gets the idea across
+
+**Link to work:** 
+<a href= "http://codepen.io/katyarobinson/pen/rjQEey"> DailyCSSImages Day 5 - Favorite animated animal </a>
+
+
+<hr>
+### Day 38: February 18, 2017
+
+**Today's Progress**: 
+
+**Technology used**: 
+
+**Thoughts:** Kind of took a week off because of the Valentine's day. No, not because I was celebrated, but because everyone waits till the very last day to buy gitfts to their loved ones, so work was incredibly busy. Well and then my husband and I took a little 2 day trip to Delaware to visit family and friends. I worked hard, I feel like I deserve it. But now I am happy to be back in my routine. 
+
+**Link to work:** 
+<a href= "http://codepen.io/katyarobinson/pen/rjQEey"> DailyCSSImages Day 5 - Favorite animated animal </a>
 
 <hr> <hr>
 **To Do Next**  

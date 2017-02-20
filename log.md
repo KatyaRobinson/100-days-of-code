@@ -606,7 +606,7 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 <hr>
 ### Day 39: February 19, 2017
 
-**Today's Progress**: Worked with PHP session to keep site admin logged while browsing the wesbite. When user is logged in, the main menu extends to include 2 more options: Appointments and Mail. 
+**Today's Progress**: Worked with PHP session to keep site admin logged while browsing the wesbite. When user is logged in, the main menu extends to include 2 more options: Appointments and Mail. Figured out dynamic links in PHP. Now I can click on an appointment and open the full information on a separate page.
 
 **Technology used**: PHP
 

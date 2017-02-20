@@ -606,9 +606,9 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 <hr>
 ### Day 39: February 19, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Worked with PHP session to keep site admin logged while browsing the wesbite. When user is logged in, the main menu extends to include 2 more options: Appointments and Mail. 
 
-**Technology used**: 
+**Technology used**: PHP
 
 **Thoughts:** Can I use JavaSript to manioulate PHP-generated content?..
 

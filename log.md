@@ -624,6 +624,7 @@ Fixed GoogleMaps on Contact Page - it is now shows correct location with a nice 
 
 **Thoughts:** I'm kind of on a roll! A spider bit me in the eyelid last night so i called off work today, which gives me 3 days off in a row! Whoa! I will barely work this week. I will definitely put in time this week to get a step closet to building a portfolio that will get me a job.
 Yesterday I watched a movie on Ntflix called "Code. Bebugging the gender gap" about role of women in tech worls. That movie inspired me even more to become a good engeneer and respresent my gender. 
+I'm about to apply for a job I found on craigslist and decided that I absolutely cannot apply with a resume that has my portfolio websit on it while it's in this embarassing state... So idecided to create a "tempararily not in service" page that will feature some fun animation on it... I think it'll be nice. And I'll take my picture off of it, people can still see what I look like on all of my social media profiles. Annndd - to work!
 
 **Link to work:** <a href="">Movement Source Website </a>
 

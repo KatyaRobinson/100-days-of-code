@@ -614,6 +614,17 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/267b7139629307f838cb43be08d592ec7a7e7fef">Movement Source Website Admin Pages </a>
 
+<hr>
+### Day 40: February 20, 2017
+
+**Today's Progress**: - Added session to every page, so when admin is logged in, she stays logged in. Changes all .html links and files to .php links and files
+
+**Technology used**: PHP
+
+**Thoughts:** 
+
+**Link to work:** <a href="">Movement Source Website </a>
+
 <hr> <hr>
 **To Do Next**  
 ### The Movement Source Website
@@ -622,13 +633,11 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 - Add social media icons to the footer and header. - HTML, CSS
 - Figure out a way to email all this info to the site owner. - PHP 
 -  and add an anchor link to the class description. - HTML, CSS
-- Add session to every page, so when admin is logged in, she can go to her page from any other page
+
 
 <strong>Styling</strong>
 - Choose an icon pack and implement with the design.
-- Add color to the top menu in mobile version???
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
-- Style website admin pages
 
 
 ###CSSDailyImages

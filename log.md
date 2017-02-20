@@ -617,11 +617,12 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 <hr>
 ### Day 40: February 20, 2017
 
-**Today's Progress**: - Added session to every page, so when admin is logged in, she stays logged in. Changes all .html links and files to .php links and files
+**Today's Progress**: - Added session to every page, so when admin is logged in, she stays logged in. Changes all .html links and files to .php links and files. Broke and then fixed the appointment request button. When I was changing the header part of every page to include new .php links I forgot that my Services page had an additional set of script links on it. Now all is fixed, thanks to GitHub! I went backand looked at what the source code looked like until I broke it. Awesome!
 
 **Technology used**: PHP
 
-**Thoughts:** 
+**Thoughts:** I'm kind of on a roll! A spider bit me in the eyelid last night so i called off work today, which gives me 3 days off in a row! Whoa! I will barely work this week. I will definitely put in time this week to get a step closet to building a portfolio that will get me a job.
+Yesterday I watched a movie on Ntflix called "Code. Bebugging the gender gap" about role of women in tech worls. That movie inspired me even more to become a good engeneer and respresent my gender. 
 
 **Link to work:** <a href="">Movement Source Website </a>
 

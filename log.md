@@ -603,6 +603,17 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 
 **Link to work:** Nada
 
+<hr>
+### Day 39: February 19, 2017
+
+**Today's Progress**: 
+
+**Technology used**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
 <hr> <hr>
 **To Do Next**  
 ### The Movement Source Website

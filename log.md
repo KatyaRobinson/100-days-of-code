@@ -610,7 +610,7 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 
 **Technology used**: 
 
-**Thoughts:** 
+**Thoughts:** Can I use JavaSript to manioulate PHP-generated content?..
 
 **Link to work:** 
 
@@ -624,12 +624,14 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 -  and add an anchor link to the class description. - HTML, CSS
 - Style appointment requests in a better way. Sort by dates and class types.
 - Add ability to click on every request, review it and reply directly to the customer - USE PHP DYNAMIC LINKS
+- Add session to every page, so when admin is logged in, she can go to her page from any other page
 
 <strong>Styling</strong>
 - Choose an icon pack and implement with the design.
 - Add color to the top menu in mobile version???
 - Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
 - Style website admin pages
+
 
 ###CSSDailyImages
 

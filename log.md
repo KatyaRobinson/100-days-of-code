@@ -606,11 +606,11 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 <hr>
 ### Day 39: February 19, 2017
 
-**Today's Progress**: Worked with PHP session to keep site admin logged while browsing the wesbite. When user is logged in, the main menu extends to include 2 more options: Appointments and Mail. Figured out dynamic links in PHP. Now I can click on an appointment and open the full information on a separate page. Used JQuery plugin Tablesorter.js to make the appointment table sortable. Used CSS Tricks article to make the table responsive.
+**Today's Progress**: Worked with PHP session to keep site admin logged while browsing the wesbite. When user is logged in, the main menu extends to include 2 more options: Appointments and Mail. Figured out dynamic links in PHP. Now I can click on an appointment and open the full information on a separate page. Used JQuery plugin Tablesorter.js to make the appointment table sortable. Used CSS Tricks article to make the table responsive. - Styled appointment requests in a better way. Sort by dates and class types. - Added ability to click on every request, review it and reply directly to the customer - USED PHP DYNAMIC LINKS
 
 **Technology used**: PHP
 
-**Thoughts:** Can I use JavaSript to manioulate PHP-generated content?..
+**Thoughts:** Feel soooo good about my progress today! Now the MS website isn't just pretty but also highly functional :) I used PHP so much which is kind of cool because I really didn't think I had it in me. So happy!! 
 
 **Link to work:** 
 
@@ -622,8 +622,6 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 - Add social media icons to the footer and header. - HTML, CSS
 - Figure out a way to email all this info to the site owner. - PHP 
 -  and add an anchor link to the class description. - HTML, CSS
-- Style appointment requests in a better way. Sort by dates and class types.
-- Add ability to click on every request, review it and reply directly to the customer - USE PHP DYNAMIC LINKS
 - Add session to every page, so when admin is logged in, she can go to her page from any other page
 
 <strong>Styling</strong>

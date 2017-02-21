@@ -633,6 +633,19 @@ I'm about to apply for a job I found on craigslist and decided that I absolutely
 
 <a href="https://github.com/KatyaRobinson/temp-page/commit/35708e892f539876c686ce1405d77ad9afa07db3">Temporary Page Commit</a>
 
+<hr>
+### Day 41: February 21, 2017
+
+**Today's Progress**: 
+
+**Technology used**: 
+
+**Thoughts:** Another beautiful day to code! 
+
+**Link to work:** <a href="">Movement Source Website </a>
+
+<a href="">Temporary Page Commit</a>
+
 <hr> <hr>
 **To Do Next**  
 ### The Movement Source Website

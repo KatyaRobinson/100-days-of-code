@@ -619,16 +619,19 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 
 **Today's Progress**: - Added session to every page, so when admin is logged in, she stays logged in. Changes all .html links and files to .php links and files. Broke and then fixed the appointment request button. When I was changing the header part of every page to include new .php links I forgot that my Services page had an additional set of script links on it. Now all is fixed, thanks to GitHub! I went backand looked at what the source code looked like until I broke it. Awesome!
 Fixed GoogleMaps on Contact Page - it is now shows correct location with a nice zoom.
+Created Temporary page to replace my stupid portfolio website.
 
 Learning about Pug.js.
 
-**Technology used**: PHP, GoogleMaps API, JS
+**Technology used**: PHP, GoogleMaps API, JS, Pug.js
 
 **Thoughts:** I'm kind of on a roll! A spider bit me in the eyelid last night so i called off work today, which gives me 3 days off in a row! Whoa! I will barely work this week. I will definitely put in time this week to get a step closet to building a portfolio that will get me a job.
 Yesterday I watched a movie on Ntflix called "Code. Bebugging the gender gap" about role of women in tech worls. That movie inspired me even more to become a good engeneer and respresent my gender. 
 I'm about to apply for a job I found on craigslist and decided that I absolutely cannot apply with a resume that has my portfolio websit on it while it's in this embarassing state... So idecided to create a "tempararily not in service" page that will feature some fun animation on it... I think it'll be nice. And I'll take my picture off of it, people can still see what I look like on all of my social media profiles. Annndd - to work!
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/fc48e69942b68fc891b47ac9b226273f08edd863">Movement Source Website </a>
+
+<a href="https://github.com/KatyaRobinson/temp-page/commit/35708e892f539876c686ce1405d77ad9afa07db3">Temporary Page Commit</a>
 
 <hr> <hr>
 **To Do Next**  

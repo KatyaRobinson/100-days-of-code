@@ -642,7 +642,7 @@ I'm about to apply for a job I found on craigslist and decided that I absolutely
 
 **Thoughts:** Another beautiful day to code! 
 
-**Link to work:** <a href="">Movement Source Website </a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/3044901be2d04123a4fb8076608db05b2aae5990">Movement Source Website </a>
 
 <a href="http://codepen.io/katyarobinson/full/QdeLBK/">Temporary Page Commit</a>
 

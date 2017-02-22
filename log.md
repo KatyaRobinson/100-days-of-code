@@ -636,9 +636,9 @@ I'm about to apply for a job I found on craigslist and decided that I absolutely
 <hr>
 ### Day 41: February 21, 2017
 
-**Today's Progress**: Finished "website under consrtuction page" 
+**Today's Progress**: Finished "website under consrtuction page". Added ability to manually delete appointment requests by site admin. Added ability to confirm appointments.
 
-**Technology used**: pure CSS
+**Technology used**: pure CSS, PHP
 
 **Thoughts:** Another beautiful day to code! 
 

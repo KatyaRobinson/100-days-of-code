@@ -662,10 +662,14 @@ Also, I signed up for DailySVGImages challenge. I don't know if I will actually 
 ### Day 43: February 23, 2017
 
 **Today's Progress**: Worked on the View.php and welcome.php pages of the MS website. Fixed the "Confirm" button to actually change the status of record. Made all dates in the past fade. 
+Started commenting the code before I forgot everythign I did there. 
+Restyled buttons on the View.php page (Confirm, Delete, Contact client) so they don't look so ugly.
+Restyled the View.php page completely. Added status to the appointment record and made it change the value according to the sctual status of the request.
 
 **Technology used**: PHP, jQuery
 
 **Thoughts:** As soon as I am done with the managing appointments functionality I will just go around and fix small inperfections. Then I will have Harry test the site. Then I will show it to the client. Can't wait to have it live and move on to something else! Yay!
+I decided to stop adding new features until I get feedback from client.
 
 **Link to work:** <a href="">Movement Source Website </a>
 

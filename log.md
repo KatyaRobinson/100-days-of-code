@@ -682,7 +682,7 @@ I decided to stop adding new features until I get feedback from client.
 
 **Thoughts:** I don't know how it happened but I added another page to the website - Mail.php. This page will display messages sent from the Contact page. This is going to be a backup option in case php(mail) doesn't happen to work again... I know I promised not adding more functionality but I just can't help it!
 
-**Link to work:** <a href="">Movement Source Website </a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c6651618441c2c46392515fbe8226afa03038019">Movement Source Website </a>
 
 
 

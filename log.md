@@ -646,6 +646,31 @@ I'm about to apply for a job I found on craigslist and decided that I absolutely
 
 <a href="http://codepen.io/katyarobinson/full/QdeLBK/">Temporary Page Commit</a>
 
+<hr>
+### Day 42: February 22, 2017
+
+**Today's Progress**: Watched lectures on UX design. 
+
+**Technology used**: Laptop, notebook, pen and BRAIN!
+
+**Thoughts:**   Decided to give my brain a break and learn something different for a change of scenery. I don't know a lot about UX design and I've been wanting to research some main principles of it for a long time. Today I just happened to stumble upon an article on UX online cources, one of which looked very interesting. I found it on springboard.com (https://www.springboard.com/learning-paths/user-experience-design/). Additionaly, I ordered the "Envisioning Information" book online (https://www.amazon.com/gp/product/0961392118/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1). Can't wait to read it!
+Also, I signed up for DailySVGImages challenge. I don't know if I will actually do it... I do need to get better at creating my own images... 
+ 
+**Link to work:** No links to work today, no actual coding was done, just tons of notes taken!
+
+<hr>
+### Day 43: February 23, 2017
+
+**Today's Progress**: Worked on the View.php and welcome.php pages of the MS website. Fixed the "Confirm" button to actually change the status of record. Made all dates in the past fade. 
+
+**Technology used**: PHP, jQuery
+
+**Thoughts:** As soon as I am done with the managing appointments functionality I will just go around and fix small inperfections. Then I will have Harry test the site. Then I will show it to the client. Can't wait to have it live and move on to something else! Yay!
+
+**Link to work:** <a href="">Movement Source Website </a>
+
+
+
 <hr> <hr>
 **To Do Next**  
 ### The Movement Source Website

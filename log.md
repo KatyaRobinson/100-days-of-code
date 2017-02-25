@@ -684,6 +684,17 @@ I decided to stop adding new features until I get feedback from client.
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c6651618441c2c46392515fbe8226afa03038019">Movement Source Website </a>
 
+<hr>
+### Day 45: February 25, 2017
+
+**Today's Progress**:  
+
+**Technology used**: 
+
+**Thoughts:** The website header bugs me so much. That clunky "Contact" button is staring into my soul and screaming: "Amateur!" Decided to get rid of it altogether and replace with some cute elegant icons.
+
+**Link to work:** <a href="">Movement Source Website </a>
+
 
 
 <hr> <hr>

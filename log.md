@@ -687,7 +687,7 @@ I decided to stop adding new features until I get feedback from client.
 <hr>
 ### Day 45: February 25, 2017
 
-**Today's Progress**:  
+**Today's Progress**:  Added social media, contact icons.
 
 **Technology used**: 
 

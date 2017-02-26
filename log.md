@@ -687,13 +687,13 @@ I decided to stop adding new features until I get feedback from client.
 <hr>
 ### Day 45: February 25, 2017
 
-**Today's Progress**:  Added social media, contact icons.
+**Today's Progress**:  Added social media, contact icons. Styled header ans footer to better fit overall design.
 
 **Technology used**: 
 
 **Thoughts:** The website header bugs me so much. That clunky "Contact" button is staring into my soul and screaming: "Amateur!" Decided to get rid of it altogether and replace with some cute elegant icons.
 
-**Link to work:** <a href="">Movement Source Website </a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/fce0e447589581f72c65c967427b53094c722200">Movement Source Website </a>
 
 
 
@@ -702,14 +702,11 @@ I decided to stop adding new features until I get feedback from client.
 ### The Movement Source Website
 <strong>Functionality: </strong>
 
-- Add social media icons to the footer and header. - HTML, CSS
-- Figure out a way to email all this info to the site owner. - PHP 
 -  and add an anchor link to the class description. - HTML, CSS
 
 
 <strong>Styling</strong>
-- Choose an icon pack and implement with the design.
-- Redesing Contact page to fit in with the website theme. Remove map??? or make it way smaller and in the bottom of the page
+
 
 
 ###CSSDailyImages

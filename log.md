@@ -695,6 +695,17 @@ I decided to stop adding new features until I get feedback from client.
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/fce0e447589581f72c65c967427b53094c722200">Movement Source Website </a>
 
+<hr>
+### Day 46: February 26, 2017
+
+**Today's Progress**:  Research, reserach, research.
+
+**Technology used**: BRAIN!
+
+**Thoughts:** Today I am a research maniac. I keep gathering bits and pieces of ideas for my portfolio/blog. What would be REALLY cool is to build it using new technology like the MEAN stack. When I look at the code of the MEAN projects it's just so clean and elegant. I want to know how to do that! I want my code to be beautiful from inside and outside alike.
+
+**Link to work:** 
+
 
 
 <hr> <hr>

@@ -706,6 +706,29 @@ I decided to stop adding new features until I get feedback from client.
 
 **Link to work:** 
 
+<hr>
+### Day 47: February 27, 2017
+
+**Today's Progress**:  Read a few chapters of the "Envisioning Information" book on UX Design. 
+
+**Technology used**: BRAIN!
+
+**Thoughts:** Am I trying to cover too much ground by learning about UX? Should I not worry about it until I become more proficient with actual development?
+
+**Link to work:** 
+
+<hr>
+### Day 48: February 28, 2017
+
+**Today's Progress**:  Edited header and footer of the MS website. Both now contain social media icons and links.
+
+**Technology used**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
 
 
 <hr> <hr>

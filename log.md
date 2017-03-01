@@ -720,11 +720,11 @@ I decided to stop adding new features until I get feedback from client.
 <hr>
 ### Day 48: February 28, 2017
 
-**Today's Progress**:  Edited header and footer of the MS website. Both now contain social media icons and links.
+**Today's Progress**:  Edited header and footer of the MS website. Both now contain social media icons and links. Little tweaks to desing. 
 
-**Technology used**: 
+**Technology used**: CSS
 
-**Thoughts:** 
+**Thoughts:** I'm kind of running out of tasks to do for this project. Which meeeeeeanssss... soon to be launched!!!
 
 **Link to work:** 
 

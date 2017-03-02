@@ -731,7 +731,7 @@ I decided to stop adding new features until I get feedback from client.
 <hr>
 ### Day 49: March 2, 2017
 
-**Today's Progress**:  
+**Today's Progress**:  Added type of class to the appointment request. Now it is displayed on page before submitting request and on the admin individual appointment screen. 
 
 **Technology used**: 
 

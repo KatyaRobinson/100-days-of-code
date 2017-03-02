@@ -737,7 +737,7 @@ I decided to stop adding new features until I get feedback from client.
 
 **Thoughts:** Decided it's time to wrap up the MS website. Melted my brain by trying to find a way to edit JSON file from front end. Found a couple of tool, all seem too complicated for my needs... I guess I'll have the client look at the site and go from there...
 
-**Link to work:** <a href=""> Movement Source Wesbite Commit</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/ee8503a706d66696b4c73f19afd1e94e5da954ab"> Movement Source Wesbite Commit</a>
 
 
 

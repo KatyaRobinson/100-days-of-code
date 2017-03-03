@@ -731,9 +731,9 @@ I decided to stop adding new features until I get feedback from client.
 <hr>
 ### Day 49: March 2, 2017
 
-**Today's Progress**:  Added type of class to the appointment request. Now it is displayed on page before submitting request and on the admin individual appointment screen. 
+**Today's Progress**:  Added type of class to the appointment request. Now it is displayed on page before submitting request and on the admin individual appointment screen. Tweaked design as always. Went back to the MEAN course I bought on Udemy website, currently learning to use Express framework. Hoping to build my next project with MEAN stack. 
 
-**Technology used**: 
+**Technology used**: lil bit of everything
 
 **Thoughts:** Decided it's time to wrap up the MS website. Melted my brain by trying to find a way to edit JSON file from front end. Found a couple of tool, all seem too complicated for my needs... I guess I'll have the client look at the site and go from there...
 

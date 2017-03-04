@@ -739,6 +739,18 @@ I decided to stop adding new features until I get feedback from client.
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/ee8503a706d66696b4c73f19afd1e94e5da954ab"> Movement Source Wesbite Commit</a>
 
+<hr>
+### Day 50: March 3, 2017
+
+**Today's Progress**:  Finished Day 6 Clock for #dailycssimages
+
+**Technology used**: Pure CSS
+
+**Thoughts:** Yay halfway through! Was tired after work so decided to just do a #dailycssimages challenge. My next images up with a clock. I am excited to continue my MEAN stack course! I'll probably get to it tomorrow after work, as I am working a morning shift. 
+Another exciting news - I've submitted the Movement Source website to the client and now am waiting on feedback. I really hope she likes it! I'm tired of working on it, I feel like it's time to move onto something new and fresh and exciting! 
+
+**Link to work:** <a href="http://codepen.io/katyarobinson/full/mWEPEg/"> DailyCSSImages Day 6 - Clock </a>
+
 
 
 

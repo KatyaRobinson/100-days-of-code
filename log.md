@@ -751,6 +751,28 @@ Another exciting news - I've submitted the Movement Source website to the client
 
 **Link to work:** <a href="http://codepen.io/katyarobinson/full/mWEPEg/"> DailyCSSImages Day 6 - Clock </a>
 
+<hr>
+### Day 51: March 4, 2017
+
+**Today's Progress**:  Finished Express overview and tutorials 
+
+**Technology used**: JavaScript (Express)
+
+**Thoughts:** This Express stuff is getting me pretty excited! I can't wait to start on a bigger project
+
+**Link to work:** Didn't push tutorial code to GitHun because it seemed too primitive
+
+
+<hr>
+### Day 52: March 5, 2017
+
+**Today's Progress**:  
+
+**Technology used**: 
+
+**Thoughts:** The next section of the WebDevBootcamp course is API intro. I'm not a complete beginner at that, so I migth just skip this section. We'll see. I am eager to get to the coding part!
+
+**Link to work:** 
 
 
 

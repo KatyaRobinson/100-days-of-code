@@ -787,7 +787,7 @@ Databases:
 **Thoughts:** The next section of the WebDevBootcamp course is API intro. I'm not a complete beginner at that, so I migth just skip this section. We'll see. I am eager to get to the coding part!
 Started coding the big YelpCamp project for this course
 
-**Link to work:** 
+**Link to work:** <a href="https://github.com/KatyaRobinson/YelpCamp/commit/24d2c9e4a7a796a4b7edb98a3daf874fd05652c2">YelCamp Submit</a>
 
 
 

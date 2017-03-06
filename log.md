@@ -790,6 +790,20 @@ Started coding the big YelpCamp project for this course
 **Link to work:** <a href="https://github.com/KatyaRobinson/YelpCamp/commit/24d2c9e4a7a796a4b7edb98a3daf874fd05652c2">YelCamp Submit</a>
 
 
+<hr>
+### Day 53: March 6, 2017
+
+**Today's Progress**:  Completed the following sections of the WebDevBootcamp course on udemy:
+
+            
+**Technology used**: 
+
+**Thoughts:** Still waiting for the client feedback on th MS website. Not gonna lie, it is a relief to leave it finally. I leanred a lot doing that project and I'm not even talking about Bootstrap and jQuery. I learned to plan out a projects complately before starting. Also, talk to the client and determine their needs before even doing the first sketch. And, put more thought into what framework to use. In retrospect, I should've probably used Wordpress to give the client more freedom in terms of changing content... You live and you learn. 
+
+Today I'll continue working on my MEAN course, which actually turned out to be just a MEN course... So no Angualr. Which is kind of dissapointing...
+
+**Link to work:** <a href="">YelCamp Submit</a>
+
 
 <hr> <hr>
 **To Do Next**  

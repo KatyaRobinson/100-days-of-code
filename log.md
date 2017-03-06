@@ -794,13 +794,14 @@ Started coding the big YelpCamp project for this course
 ### Day 53: March 6, 2017
 
 **Today's Progress**:  Completed the following sections of the WebDevBootcamp course on udemy:
+- Intro to Mongoose - Parts 1 and 2 (watched tutorials, didn't follow along yet)
 
-            
 **Technology used**: 
 
 **Thoughts:** Still waiting for the client feedback on th MS website. Not gonna lie, it is a relief to leave it finally. I leanred a lot doing that project and I'm not even talking about Bootstrap and jQuery. I learned to plan out a projects complately before starting. Also, talk to the client and determine their needs before even doing the first sketch. And, put more thought into what framework to use. In retrospect, I should've probably used Wordpress to give the client more freedom in terms of changing content... You live and you learn. 
 
 Today I'll continue working on my MEAN course, which actually turned out to be just a MEN course... So no Angualr. Which is kind of dissapointing...
+Got feedback from the MS client, she liked what I've done, but needs to make changes. We need to schedule a meeting to discuss.
 
 **Link to work:** <a href="">YelCamp Submit</a>
 

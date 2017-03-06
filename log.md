@@ -766,11 +766,26 @@ Another exciting news - I've submitted the Movement Source website to the client
 <hr>
 ### Day 52: March 5, 2017
 
-**Today's Progress**:  
-
-**Technology used**: 
+**Today's Progress**:  Completed the following sections of the WebDevBootcamp course on udemy:
+- Intro to APIs (what is API and how can it be used in applications)
+- JSON and XML (difference between the data formats)
+- Making API requests with Node (how to use request package to be able to make HTTP requests with node.js)
+- Sunset time API example (simple example on how to use yahoo weather api to display sunset time)
+- Movie API: results route, displaying data, adding search
+- YelpCamp: Initial routes
+- YelpCamp: Layout
+- YelpCamp: Creating Campgrounds
+- YelpCamp: Styling Campgrounds
+- YelpCamp: Styling Navs and Forms
+Databases:
+- Databases, general definition lecture
+- MongoDB, shell basics
+- Introduction to Mongoose
+            
+**Technology used**: Express, Node.js, Bootstrap, MongoDB
 
 **Thoughts:** The next section of the WebDevBootcamp course is API intro. I'm not a complete beginner at that, so I migth just skip this section. We'll see. I am eager to get to the coding part!
+Started coding the big YelpCamp project for this course
 
 **Link to work:** 
 

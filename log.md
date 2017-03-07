@@ -803,7 +803,7 @@ Started coding the big YelpCamp project for this course
 Today I'll continue working on my MEAN course, which actually turned out to be just a MEN course... So no Angualr. Which is kind of dissapointing...
 Got feedback from the MS client, she liked what I've done, but needs to make changes. We need to schedule a meeting to discuss.
 
-**Link to work:** <a href="">YelCamp Submit</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/YelpCamp/commit/14c250801fb78d4777276b99b2bb62ee47904782">YelCamp Submit</a>
 
 <hr>
 ### Day 54: March 7, 2017

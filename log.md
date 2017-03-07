@@ -805,6 +805,18 @@ Got feedback from the MS client, she liked what I've done, but needs to make cha
 
 **Link to work:** <a href="">YelCamp Submit</a>
 
+<hr>
+### Day 54: March 7, 2017
+
+**Today's Progress**:  Completed the following sections of the WebDevBootcamp course on udemy:
+- YelpCamp: adding Mongoose
+
+**Technology used**: Mongoose
+
+**Thoughts:** MongoDB is pretty neat. I'm planning on continuing practicing the MEAN stack. It's so clean and effortless when compared to PHP, mySQL and MAMP... 
+
+**Link to work:** <a href="">YelCamp Submit</a>
+
 
 <hr> <hr>
 **To Do Next**  

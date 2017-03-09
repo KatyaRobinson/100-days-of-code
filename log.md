@@ -817,6 +817,21 @@ Got feedback from the MS client, she liked what I've done, but needs to make cha
 
 **Link to work:** <a href="">YelCamp Submit</a>
 
+<hr>
+### Day 55: March 8, 2017
+
+**Today's Progress**:  Learned about Restful routing
+
+**Technology used**: 
+
+**Thoughts:** Happy International Women's Day to me and all women (especially in tech). Today I looked up some web developers' portfolios for inspirations and found a couple that I really liked. They were all very different but had one thing in common - each one was:
+1. unique, which made it stand out
+2. full of "extra" content, which made it feel personable...
+That gave me some ideas about my own portfolio. I don't want it to be just an ad for my services. I want it to be a place for me to tell my story. Maybe I'm wring... But this is how I see it and I will stand by it.
+I decided I'll use Node. So this online course I'm taking will really help.
+
+**Link to work:** No links to submit today...>
+
 
 <hr> <hr>
 **To Do Next**  

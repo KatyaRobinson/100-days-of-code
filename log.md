@@ -842,7 +842,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Thoughts:** Followinf a tutorils on Blog App to practive RESTful routes. Pretty cool pretty cool. Learning Sematic UI, I like it a lot - it's a good alrernative to Bootstrap
 
-**Link to work:** 
+**Link to work:** <a href="https://github.com/KatyaRobinson/blog_app/commit/ce9e44c1636b798e68e08fc41344c1b888f15172">Blog App</a>
 
 
 <hr> <hr>

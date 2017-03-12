@@ -832,6 +832,18 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Link to work:** No links to submit today...>
 
+<hr>
+### Day 56: March 11, 2017
+
+**Today's Progress**:  WebDevBootCampsections completed:
+- RESTful Routing (8 lectures and Bloggin App tutorial)
+
+**Technology used**: Express, Mongoose, Sematic UI, Node.js.
+
+**Thoughts:** Followinf a tutorils on Blog App to practive RESTful routes. Pretty cool pretty cool. Learning Sematic UI, I like it a lot - it's a good alrernative to Bootstrap
+
+**Link to work:** 
+
 
 <hr> <hr>
 **To Do Next**  

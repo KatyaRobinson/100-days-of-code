@@ -854,7 +854,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Thoughts:** Done with the technical part of the tutorial, all that is left is prettying the app up
 
-**Link to work:** <a href="">Blog App</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/blog_app/commit/94647b65173c5c03ea3eb5e4e7d454decbcaa70b">Blog App</a>
 
 
 <hr> <hr>

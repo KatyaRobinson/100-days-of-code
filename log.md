@@ -844,6 +844,18 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/blog_app/commit/ce9e44c1636b798e68e08fc41344c1b888f15172">Blog App</a>
 
+<hr>
+### Day 57: March 13, 2017
+
+**Today's Progress**:  WebDevBootCampsections completed:
+- RESTful Routing - destroy route
+
+**Technology used**: Express, Mongoose, Sematic UI, Node.js.
+
+**Thoughts:** Done with the technical part of the tutorial, all that is left is prettying the app up
+
+**Link to work:** <a href="">Blog App</a>
+
 
 <hr> <hr>
 **To Do Next**  

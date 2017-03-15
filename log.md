@@ -877,7 +877,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 **Today's Progress**:  WebDevBootCampsections completed:
  - Authentication
  
-**Technology used**: Express, Mongoose, Node.js, Passportjs, passport-local, passport-local-mongoose
+**Technology used**: Express, Mongoose, Node.js, Passportjs, passport-local, passport-local-mongoose, express-session
 
 **Thoughts:** Learned about adding authentication to a website using tools like passportjs, passport-local and passport-local-mongoose. Created a very basic app to practice with SignUp, Login and Logout
 

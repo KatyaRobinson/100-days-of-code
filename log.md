@@ -871,6 +871,19 @@ I decided I'll use Node. So this online course I'm taking will really help.
 **Link to work:** <a href="https://github.com/KatyaRobinson/YelpCamp/commit/b3009046f8c63cef9ff968e7a6a70fa4876c0ea8">YelpCamp APP</a>
 
 
+<hr>
+### Day 59: March 15, 2017
+
+**Today's Progress**:  WebDevBootCampsections completed:
+ - Authentication
+ 
+**Technology used**: Express, Mongoose, Node.js, Passportjs, passport-local, passport-local-mongoose
+
+**Thoughts:** Learned about adding authentication to a website using tools like passportjs, passport-local and passport-local-mongoose. Created a very basic app to practice with SignUp, Login and Logout
+
+**Link to work:** <a href="">Authentication App</a>
+
+
 <hr> <hr>
 **To Do Next**  
 ### The Movement Source Website

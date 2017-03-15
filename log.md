@@ -862,6 +862,8 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Today's Progress**:  WebDevBootCampsections completed:
  - Data Associations (embeddinf data and referencing data)
+ - Adding comment to the campgrounds
+ 
 **Technology used**: Express, Mongoose, Node.js.
 
 **Thoughts:** Leaned about data accosiation and went back to working on the Camp App. Code refactoring time.

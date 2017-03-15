@@ -868,7 +868,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Thoughts:** Leaned about data accosiation and went back to working on the Camp App. Code refactoring time.
 
-**Link to work:** <a href="">YelpCamp APP</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/YelpCamp/commit/b3009046f8c63cef9ff968e7a6a70fa4876c0ea8">YelpCamp APP</a>
 
 
 <hr> <hr>

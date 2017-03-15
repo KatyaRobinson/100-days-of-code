@@ -881,24 +881,17 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Thoughts:** Learned about adding authentication to a website using tools like passportjs, passport-local and passport-local-mongoose. Created a very basic app to practice with SignUp, Login and Logout
 
-**Link to work:** <a href="">Authentication App</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/blog_auth_demo">Authentication App</a>
 
 
 <hr> <hr>
 **To Do Next**  
-### The Movement Source Website
-<strong>Functionality: </strong>
-
--  and add an anchor link to the class description. - HTML, CSS
-
-
-<strong>Styling</strong>
-
-
+- Finish WebDevBootcamp Course
+- Finish FreeCodeCamp FrontEnd Cert and start Backend
+- Design my new portfolio website
 
 ###CSSDailyImages
 
-- 6: Clock (Tick tock! Back to the journey)
 - 7: Ruler (This one is gonna rule)
 - 8. Notepad (Any shape, size, or kind will do.)
 

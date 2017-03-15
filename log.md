@@ -857,6 +857,18 @@ I decided I'll use Node. So this online course I'm taking will really help.
 **Link to work:** <a href="https://github.com/KatyaRobinson/blog_app/commit/94647b65173c5c03ea3eb5e4e7d454decbcaa70b">Blog App</a>
 
 
+<hr>
+### Day 58: March 14, 2017
+
+**Today's Progress**:  WebDevBootCampsections completed:
+ - Data Associations (embeddinf data and referencing data)
+**Technology used**: Express, Mongoose, Node.js.
+
+**Thoughts:** Leaned about data accosiation and went back to working on the Camp App. Code refactoring time.
+
+**Link to work:** <a href="">YelpCamp APP</a>
+
+
 <hr> <hr>
 **To Do Next**  
 ### The Movement Source Website

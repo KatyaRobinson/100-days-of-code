@@ -893,7 +893,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Thoughts:** Illustrator is very easy to use, I would say even easier than Photoshop. I have a couple of cool ideas for my portfolio, hopefully I have enough knowledge and skills to actually bring it to life. 
 
-**Link to work:** <a href="">Portfolio mockups commit</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new">Portfolio mockups commit</a>
 
 
 <hr> <hr>

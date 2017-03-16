@@ -884,6 +884,18 @@ I decided I'll use Node. So this online course I'm taking will really help.
 **Link to work:** <a href="https://github.com/KatyaRobinson/blog_auth_demo">Authentication App</a>
 
 
+<hr>
+### Day 60: March 16, 2017
+
+**Today's Progress**:  Created mockup of my new portfolio website - so far I have home and projects page.
+ 
+**Technology used**: Illustrator
+
+**Thoughts:** Illustrator is very easy to use, I would say even easier than Photoshop. I have a couple of cool ideas for my portfolio, hopefully I have enough knowledge and skills to actually bring it to life. 
+
+**Link to work:** <a href="">Portfolio mockups commit</a>
+
+
 <hr> <hr>
 **To Do Next**  
 - Finish WebDevBootcamp Course

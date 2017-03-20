@@ -898,13 +898,15 @@ I decided I'll use Node. So this online course I'm taking will really help.
 <hr>
 ### Day 61-62: March 18-19, 2017
 
-**Today's Progress**:  Created mockups for about-me and about-me-hobbies pages. My portfolio design is coming along
+**Today's Progress**:  Created mockups for about-me and about-me-hobbies pages. My portfolio design is coming along.
+Started outlining the project files. Couldn't wait to start coding!!! 
  
 **Technology used**: Illustrator
 
 **Thoughts:** Design is really not my strength. And this is exactly why I need to keep working on it.
+Decided to use Node and Express for my project. Found awesome responsive sidebar for Bootstrap that will work perfectly for this project. Credit: http://bootsnipp.com/snippets/featured/responsive-navigation-menu
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new">Portfolio mockups commit</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new">Portfolio Website</a>
 
 
 

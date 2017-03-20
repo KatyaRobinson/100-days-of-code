@@ -895,6 +895,18 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new">Portfolio mockups commit</a>
 
+<hr>
+### Day 61-62: March 18-19, 2017
+
+**Today's Progress**:  Created mockups for about-me and about-me-hobbies pages. My portfolio design is coming along
+ 
+**Technology used**: Illustrator
+
+**Thoughts:** Design is really not my strength. And this is exactly why I need to keep working on it.
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new">Portfolio mockups commit</a>
+
+
 
 <hr> <hr>
 **To Do Next**  

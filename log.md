@@ -906,7 +906,7 @@ Started outlining the project files. Couldn't wait to start coding!!!
 **Thoughts:** Design is really not my strength. And this is exactly why I need to keep working on it.
 Decided to use Node and Express for my project. Found awesome responsive sidebar for Bootstrap that will work perfectly for this project. Credit: http://bootsnipp.com/snippets/featured/responsive-navigation-menu
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new">Portfolio Website</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/tree/master">Portfolio Website</a>
 
 
 

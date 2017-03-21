@@ -908,6 +908,22 @@ Decided to use Node and Express for my project. Found awesome responsive sidebar
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/tree/master">Portfolio Website</a>
 
+<hr>
+### Day 63: March 20, 2017
+
+**Today's Progress**: Set up a GitHub repository to host my projects, created index page with a table to project info. Submitted my old portfolio website as the Day 1 project. 
+ 
+**Technology used**: Bootstrap
+
+**Thoughts:** Signed for a new challenge, I just can't pass by anything new and shiny! This time it's 30Days30Sites challenge that prompts a simple front-end project that is supposed to be done every day but I doubt I will actually keep up.
+The first site is portfolio, I submitted my old embarassing one that I created last summer, but I'm thinking about changing it to a different one, also a Bootstrap one. 
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/katyarobinson.github.io">30Days30Sites Index</a>
+
+
+
+
+
 
 
 <hr> <hr>

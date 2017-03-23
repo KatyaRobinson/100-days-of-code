@@ -923,13 +923,16 @@ The first site is portfolio, I submitted my old embarassing one that I created l
 <hr>
 ### Day 64-65: March 21-22, 2017
 
-**Today's Progress**: Finished Portfolio page for #30Days30Sites
+**Today's Progress**: Finished Portfolio page for #30Days30Sites and Event Invitation page.
  
 **Technology used**: Bootstrap
 
-**Thoughts:** Finished a portfolio for LunAmira Cat Services
+**Thoughts:** Finished a portfolio for LunAmira Cat Services and Invitation for my own birthday party!
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/katyarobinson.github.io/tree/master/day1">30Days30Sites Index</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/katyarobinson.github.io/tree/master/day1">Day 1: Portfolio</a>
+<a href="https://github.com/KatyaRobinson/katyarobinson.github.io/tree/master/day2">Day 2: Even Invitation</a>
+
+
 
 
 

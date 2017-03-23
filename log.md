@@ -929,7 +929,7 @@ The first site is portfolio, I submitted my old embarassing one that I created l
 
 **Thoughts:** Finished a portfolio for LunAmira Cat Services
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/katyarobinson.github.io">30Days30Sites Index</a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/katyarobinson.github.io/tree/master/day1">30Days30Sites Index</a>
 
 
 

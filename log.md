@@ -935,14 +935,14 @@ The first site is portfolio, I submitted my old embarassing one that I created l
 <hr>
 ### Day 67: March 28, 2017
 
-**Today's Progress**:
+**Today's Progress**: Developed portfolio front page - header "workplace" image, slider with featured projects. Deployed websited on Heroku - followed the official tutorial
  
-**Technology used**: 
+**Technology used**: Pure CSS, Bootstrap, Heroku
 
 **Thoughts:** After taking a few days off due to the work schedule I'm back in the game! In the meantime even thought I wasn't coding, I was still being productive by reading books. I'm reading "The Design of Everyday Things", "Clean Code", and "Cracking Coding Interview" now.  
-Today's goal is to get the front page of my new portfolio working
+Today's goal is to get the front page of my new portfolio working.
 
-**Link to work:** 
+**Link to work:** <a href="">Portfolio Commit </a>
 
 
 

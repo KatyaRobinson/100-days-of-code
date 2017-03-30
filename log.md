@@ -955,7 +955,7 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Thoughts:** Had an interview this morning at an awesome web studio in Media, PA. They have nice people, super cute office, lots of coffee, and office dogs! I am really hoping to get a call back with good news....
 
-**Link to work:** <a href="">Portfolio Commit </a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/fcd0053fb46d6e3fc9bf5d3dfcfda306282a2c00">Portfolio Commit </a>
 
 
 

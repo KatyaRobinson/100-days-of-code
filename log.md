@@ -942,7 +942,22 @@ The first site is portfolio, I submitted my old embarassing one that I created l
 **Thoughts:** After taking a few days off due to the work schedule I'm back in the game! In the meantime even thought I wasn't coding, I was still being productive by reading books. I'm reading "The Design of Everyday Things", "Clean Code", and "Cracking Coding Interview" now.  
 Today's goal is to get the front page of my new portfolio working.
 
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/221aa589069364d87cd97a404bec1689dbae0b11">Portfolio Commit </a>
+<a href="https://shielded-citadel-24592.herokuapp.com">Heroku live app</a> Also can be found at http://portfolio.katyagurina.com
+
+
+<hr>
+### Day 68: March 29, 2017
+
+**Today's Progress**: Worked on my portfolio, kept building to bring it as close as possible to the design. Added the changeColor function to change the color scheme of the page according to the user's preferences.
+ 
+**Technology used**: jQuery
+
+**Thoughts:** Had an interview this morning at an awesome web studio in Media, PA. They have nice people, super cute office, lots of coffee, and office dogs! I am really hoping to get a call back with good news....
+
 **Link to work:** <a href="">Portfolio Commit </a>
+
+
 
 
 

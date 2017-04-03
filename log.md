@@ -967,7 +967,7 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Thoughts:** JavaScript is starting making a LITTLE sense
 
-**Link to work:** <a href="">Portfolio Commit </a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/daafc7eb2871473adafe046765ef8cf658019054">Portfolio Commit - colors working </a>
 
 
 

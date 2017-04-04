@@ -979,7 +979,7 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Thoughts:** Fun fun fun
 
-**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/daafc7eb2871473adafe046765ef8cf658019054">Portfolio Commit - colors working </a>
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/9a1d47f04d779c28168173a613c71853d3e18d48">Portfolio Commit - colors working </a>
 
 
 

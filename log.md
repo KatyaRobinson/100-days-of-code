@@ -970,6 +970,16 @@ Today's goal is to get the front page of my new portfolio working.
 **Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/daafc7eb2871473adafe046765ef8cf658019054">Portfolio Commit - colors working </a>
 
 
+<hr>
+### Day 70: April 3, 2017
+
+**Today's Progress**: Addded projects to the #featured-projects slideshow, added footer, improved on the #make-pretty button, how works flawlessly!
+ 
+**Technology used**: jQuery
+
+**Thoughts:** Fun fun fun
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/daafc7eb2871473adafe046765ef8cf658019054">Portfolio Commit - colors working </a>
 
 
 

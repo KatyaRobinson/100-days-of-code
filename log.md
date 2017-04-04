@@ -981,6 +981,17 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/9a1d47f04d779c28168173a613c71853d3e18d48">Portfolio Commit - colors working </a>
 
+<hr>
+### Day 71: April 4, 2017
+
+**Today's Progress**: No real progress today :( 
+ 
+**Technology used**: Node.js
+
+**Thoughts:** Trying to figure out how to keep the user chosen color scheme as page refreshes... Will have to brainstorm it as I am at wowk... I'm guessing I will need to use session or some other way to hold on to the variable????
+
+**Link to work:** 
+
 
 
 

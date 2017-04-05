@@ -992,6 +992,17 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Link to work:** 
 
+<hr>
+### Day 72: April 5, 2017
+
+**Today's Progress**:  Refactored code by cleaning colorChange functions and storing all colors in a JS object. Added localStorage to store the most recently chosen color scheme
+ 
+**Technology used**: JavaScript
+
+**Thoughts:** Finally a breakthrough! I was so sad yesterday but today all it took is to see everything with fresh morning brain :) 
+
+**Link to work:** 
+
 
 
 

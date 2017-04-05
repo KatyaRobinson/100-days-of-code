@@ -1001,7 +1001,7 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Thoughts:** Finally a breakthrough! I was so sad yesterday but today all it took is to see everything with fresh morning brain :) 
 
-**Link to work:** 
+**Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/bbdd6c4838d1f8cc9f33043146c1441db0b86cf5">Portfolio Commit</a>
 
 
 

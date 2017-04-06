@@ -1003,6 +1003,17 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/bbdd6c4838d1f8cc9f33043146c1441db0b86cf5">Portfolio Commit</a>
 
+<hr>
+### Day 73: April 6, 2017
+
+**Today's Progress**: Fixed color changing mess, started working on Portfolio page
+ 
+**Technology used**: JavaScript
+
+**Thoughts:**  Omg so tired. 
+
+**Link to work:**  <a href="">Portfolio Commit</a>
+
 
 
 

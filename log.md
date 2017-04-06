@@ -1012,7 +1012,7 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Thoughts:**  Omg so tired. 
 
-**Link to work:**  <a href="">Portfolio Commit</a>
+**Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/c91194a0302c170a95ff13b3c03a333a604dfa74">Portfolio Commit</a>
 
 
 

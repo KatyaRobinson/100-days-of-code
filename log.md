@@ -1014,6 +1014,17 @@ Today's goal is to get the front page of my new portfolio working.
 
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/c91194a0302c170a95ff13b3c03a333a604dfa74">Portfolio Commit</a>
 
+<hr>
+### Day 73: April 6, 2017 - PART TWO - AFTER WORK
+
+**Today's Progress**: Fixed a bunch of little bugs, footer background issue, sidebar menu design improvements (active tab, uniform color)
+ 
+**Technology used**: JavaScript
+
+**Thoughts:** I'm obsessed with the idea of making this website as perfects as I possibly can 
+
+**Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/c91194a0302c170a95ff13b3c03a333a604dfa74">Portfolio Commit</a>
+
 
 
 

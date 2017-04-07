@@ -1018,12 +1018,14 @@ Today's goal is to get the front page of my new portfolio working.
 ### Day 73: April 6, 2017 - PART TWO - AFTER WORK
 
 **Today's Progress**: Fixed a bunch of little bugs, footer background issue, sidebar menu design improvements (active tab, uniform color)
+Took a break from the portfolio website and restarted making Day 3 for 30Days30Sites challnege - Attraction Page.
  
 **Technology used**: JavaScript
 
 **Thoughts:** I'm obsessed with the idea of making this website as perfects as I possibly can 
 
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/1c969e3350d71ed680fc39aabe1e2f12e46a7c2f">Portfolio Commit</a>
+
 
 
 

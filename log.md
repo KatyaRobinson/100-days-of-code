@@ -1025,6 +1025,7 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Thoughts:** I'm obsessed with the idea of making this website as perfects as I possibly can 
 
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/1c969e3350d71ed680fc39aabe1e2f12e46a7c2f">Portfolio Commit</a>
+<a href="https://github.com/KatyaRobinson/katyarobinson.github.io/commit/d16c793a9524fe7a07228ca4defa3ffb3abc0299">30Days30Sites Day 3 Commit</a>
 
 
 

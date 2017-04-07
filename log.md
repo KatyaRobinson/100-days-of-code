@@ -1027,6 +1027,18 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/1c969e3350d71ed680fc39aabe1e2f12e46a7c2f">Portfolio Commit</a>
 <a href="https://github.com/KatyaRobinson/katyarobinson.github.io/commit/d16c793a9524fe7a07228ca4defa3ffb3abc0299">30Days30Sites Day 3 Commit</a>
 
+<hr>
+### Day 74: April 7
+
+**Today's Progress**: Build a little more to the Portfolio page - created placeholder cards for future projects, changes design of the cards, added a slider for testimonials
+
+**Technology used**: JavaScript
+
+**Thoughts:** I feel like I am moving super slowly, but I guess any progress is still progress
+
+**Link to work:**  <a href="">Portfolio Commit</a>
+
+
 
 
 

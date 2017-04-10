@@ -1047,7 +1047,7 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 
 **Thoughts:** So the HARDEST task for me turned out to be writing content. Especially when it comes to writing about myself, it just doesn't come naturally to me... Sucks.
 
-**Link to work:**  <a href="">Portfolio Commit</a>
+**Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/e94176555dc314d7ba82860f090dd461bfbc4088">Portfolio Commit</a>
 
 
 

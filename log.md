@@ -1038,6 +1038,17 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/1b84890af082938bf58b8aec43fd8f0cf12db83d">Portfolio Commit</a>
 
+<hr>
+### Day 75, 76: April 8,9
+
+**Today's Progress**: Finished skeleton of Portfolio page and started About page
+
+**Technology used**: JavaScript
+
+**Thoughts:** So the HARDEST task for me turned out to be writing content. Especially when it comes to writing about myself, it just doesn't come naturally to me... Sucks.
+
+**Link to work:**  <a href="">Portfolio Commit</a>
+
 
 
 

@@ -1052,7 +1052,7 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 <hr>
 ### Day 77: April 10
 
-**Today's Progress**: Created template for showing individual project case studies
+**Today's Progress**: Created template for showing individual project case studies. Moved database to the cloud with mlab MongoDb
 
 **Technology used**: JavaScript
 

@@ -1049,6 +1049,17 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/e94176555dc314d7ba82860f090dd461bfbc4088">Portfolio Commit</a>
 
+<hr>
+### Day 77: April 10
+
+**Today's Progress**: Created template for showing individual project case studies
+
+**Technology used**: JavaScript
+
+**Thoughts:** Man this took me half a day... 
+
+**Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/e94176555dc314d7ba82860f090dd461bfbc4088">Portfolio Commit</a>
+
 
 
 

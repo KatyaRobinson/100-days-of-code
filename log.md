@@ -4,7 +4,7 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 
 
 <hr>
-<h1> Day 1: December 6, 2016</h1>
+<h3> Day 1: December 6, 2016</h3>
 
 **Today's Progress**: Followed tutorial on Node.js basics (Treehouse)
 
@@ -15,7 +15,7 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 **Link to work:** <a href = "https://github.com/KatyaRobinson/treehouse_profile.git"> Treehouse profile fetcher</a> (https://github.com/KatyaRobinson/treehouse_profile.git)
 
 <hr>
-### Day 2: December 7, 2016
+<h3> Day 2: December 7, 2016 </h3>
 
 **Today's Progress**: Followed tutorial on building a simple dynamic site with Node.js (Treehouse)
 
@@ -26,7 +26,7 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 **Link to work:** Didn't push to GutHub, and now my code is lost with the ending of my Treehouse membership #sadness
 
 <hr>
-### Day 3: December 9, 2016
+<h3> Day 3: December 9, 2016 </h3>
 
 **Today's Progress**: Building a simple dynamic site with Node.js (Treehouse) - cont. 
 

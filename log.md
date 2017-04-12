@@ -4,7 +4,7 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 
 
 <hr>
-## Day 1: December 6, 2016
+<h1> Day 1: December 6, 2016</h1>
 
 **Today's Progress**: Followed tutorial on Node.js basics (Treehouse)
 

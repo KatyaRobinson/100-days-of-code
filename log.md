@@ -37,7 +37,7 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 **Link to work:** Didn't push to GutHub, and now my code is lost with the ending of my Treehouse membership #sadness
 
 <hr>
-### Day 4: December 11, 2016
+<h3> Day 4: December 11, 2016 </h3>
 
 **Today's Progress**: Node.js (Web Developer Bootcamp Udemy Course) - challenges
 
@@ -48,7 +48,7 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 **Link to work:** Didn't push to GutHub
 
 <hr>
-### Day 5: December 14, 2016
+<h3> Day 5: December 14, 2016 </h3>
 
 **Today's Progress**: Followed tutorial to create JavaScript Color Picker Game via Udemy Course
 
@@ -63,7 +63,7 @@ NOTE: I've started this challege back in December 2016 before getting myself com
 NOTE: And then Christmas in Retail happened and next thing I knew it was New Year
 
 <hr>
-### Day 6: January 2, 2017
+<h3> Day 6: January 2, 2017 </h3>
 
 **Today's Progress**: Started working on my new freelace project - "Movement Source" website
 
@@ -74,7 +74,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** <a href = "https://github.com/KatyaRobinson/movement-source/tree/3d8257ac859260b16cd069b9d2290eadfcd2c4fc">Movement Source Website Commit</a>
 
 <hr>
-### Day 7: January 3, 2017
+<h3> Day 7: January 3, 2017 </h3>
 
 **Today's Progress**: Started another freelance projects - "Roxolanna Design Studio" (temp name). Created new Bootstrap installation, chose a template, set up GutHub repository
 **Technology used**: Bootstrap
@@ -84,7 +84,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** <a href = "https://github.com/KatyaRobinson/roxolana-designs.git">Roxolanna Design Studio Commit </a>
 
 <hr>
-### Day 8: January 5, 2017
+<h3> Day 8: January 5, 2017 </h3>
 
 **Today's Progress**: "Movement Source" website - Created About Page
 
@@ -95,7 +95,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/e79a7cc6498b0b80a89f9cc1e7199e3b445dfc86">Movement Source Commit</a>
 
 <hr>
-### Day 9: January 6, 2017
+<h3> Day 9: January 6, 2017 </h3>
 
 **Today's Progress**: "Movement Source" website - Redesigned home page
 
@@ -106,7 +106,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** ummmm... I got the commits confused... As this point I wasn't keeping a log yet - see newer commits to this project below
 
 <hr>
-### Day 10: January 7, 2017
+<h3> Day 10: January 7, 2017 </h3>
 
 **Today's Progress**: "Movement Source" website - Worked on the Book.js script - appointment request form
 
@@ -117,7 +117,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/c3cb247a0ac60d1d43c11bfb4218ec65cd251b26">Movement Source Commit</a>
 
 <hr>
-### Day 11: January 8, 2017
+<h3> Day 11: January 8, 2017 </h3>
 
 **Today's Progress**: Reviewed Backend Section of The Web Developer Bootcamp Udemy course; Worked on the appointment booking section of the "Movement Source" website
 
@@ -129,7 +129,7 @@ NOTE: And then Christmas in Retail happened and next thing I knew it was New Yea
 
 <hr>
 
-### Day 12: January 9, 2017
+<h3> Day 12: January 9, 2017 </h3>
 
 **Today's Progress**: Set up 100-days-of-code log file. Worked on improving User Interface of the Movement Source home page; fixed links and buttons; added a section on the bottom of the page.
 
@@ -147,7 +147,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 <hr>
 
-### Day 13: January 10, 2017
+<h3> Day 13: January 10, 2017 </h3>
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Copied text from the old website, styled the elements.
 
@@ -160,7 +160,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 <hr>
 
-### Day 14: January 11, 2017
+<h3> Day 14: January 11, 2017 </h3>
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Refined CSS for the page
 
@@ -171,7 +171,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c47e2caababa5010007cf44080fa9c3fee8d5cb9">Movement Source Services Page Commit</a>
 
 <hr>
-### Day 15: January 12, 2017
+<h3> Day 15: January 12, 2017 </h3>
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website - trying to make AJAX loading of calendar happen... #struggleisreal
 
@@ -183,7 +183,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 
 
 <hr>
-### Day 16: January 13, 2017
+<h3> Day 16: January 13, 2017 </h3>
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Cleaned the code by moving JS to a sepate file. Moved calendar to the bottom of the "Services" page. Made nav stick to the top of the page on scroll, added a logo to the nav-fixed-top.
 
@@ -196,7 +196,7 @@ The home page is finally coming together. I will leave it as is for now and cont
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/a547184b995819b12c3f0bf2649b3547e93ca4b9">Movement Source Services Page Commit</a>
 
 <hr>
-### Day 17: January 14, 2017
+<h3> Day 17: January 14, 2017 </h3>
 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Cleaned my messy code. Added simple-sidebar to the page for easier navigation of the services. Because I used an open-sources sidebar, it is not tailored to my website yet, I'll have to work on making in fit in with the design
 
@@ -212,8 +212,8 @@ Changing my coding schedule to mornings has improved my productivity tremendousl
 
 
 <hr>
-### Day 18: January 16, 2017
-
+<h3> Day 18: January 16, 2017 </h3>
+ 
 **Today's Progress**: Worked on the "Services" page of the Movement Source Website. Added smooth scrolling to elements when a sidebar button is presses. Resize main content container (#wrapper) to accomodate for the width of the sidebar. Added "Bring me to top" button. Styles the sidebar menu to fit the overall design better.
 
 **To Do Next**  On small screens sidebar needs to dissapear into hamburger or completely. Remove logo on mobile menu. Style sidebar some more. Work on the calandar. Organize JS code better.
@@ -226,7 +226,7 @@ I can't wait to look at this code a few month from now and cringe... It's crazy 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/tree/9d100021bf0818a5350d2055c7667df9951ac6c0">Movement Source Services Page Sidebar Commit</a>
 
 <hr>
-### Day 19: January 18, 2017
+<h3> Day 19: January 18, 2017 </h3>
 
 **Today's Progress**: Services page: styles sidebar. Added .active class to the sidebar menu elements on click and scroll. Added the new header and footer to the rest of tha pages. Made sidebar collapse on small screens. Added Facebook feed. Created and started styling Contact page
 
@@ -241,13 +241,13 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 **Link to work:** <a href="">Movement Source Commit</a>
 
 <hr>
-### Day 19.2
+<h3> Day 19.2 </h3>
 
 **Today's Progress**: Didn't do any actual coding, so I won't count this day in the progress. Work was very slow so I had a lot of time to brainstorm my portfolio.2.0 website. Came up with a couple of nice ideas. Drew up first paper mockup, wrote out the main concept, sections, topics to discuss, areas to cover. "Comissioned" my husband to draw a logo. Next steps would be creating a digital mockup and then - to coding!
 
 
 <hr>
-### Day 20: January 20, 2017
+<h3> Day 20: January 20, 2017 </h3>
 
 **Today's Progress**: Edited footer. Watched Trump talk. Worked on "Secure my spot" button. Now the SelectedService is changed appropriate to the section from where a button was pressed. 
 
@@ -260,7 +260,7 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/4d6baca9ec22c57447f957609c661e2b43372b3b">Movement Source</a>
 
 <hr>
-### Day 21: January 21, 2017
+<h3> Day 21: January 21, 2017 </h3>
 
 **Today's Progress**: Worked on the calendar functionality. Not much progress, JavaScript is my weakness :( Going to have to read some more before attempting this bit... Fixed front slider click event.
 
@@ -273,7 +273,7 @@ I'm collecting ideas for my Portfolio.2.0. Thinking about making it one-page wit
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/d278848981e87d1c9c5cb03ef00f49fa1c6a1732">Movement Source</a>
 
 <hr>
-### Day 22: January 22, 2017
+<h3> Day 22: January 22, 2017 </h3>
 
 **Today's Progress**: Working on the scheduling functionality. Spent ALLLLLLLLL day off working on JavaScript - custom calendar fnctionality.It is finally working. I know my code is ugly, but currently I am more concerned about functionality. Created a json file with the class schedule from scratch. Now once a date is clicked, the available time slots get displayd. Each timeslot is a button of its own, when one of those clocked a messaged pops up giving info of what date and time was selected and then the user is prompted to fill up their personal informtion to wrap up the request and them eventually send it in an email. 
 
@@ -288,7 +288,7 @@ Future functionality: save all the requests in a database
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/d724a207af466da47eb39b7ac1e9955b0f70f78f">Movement Source</a>
 
 <hr>
-### Day 23: January 24, 2017
+<h3> Day 23: January 24, 2017 </h3>
 
 **Today's Progress**: Uploaded existing files into a separate folder on my personal (ugly) website, so I can test mobile screen functionality. Completed customer info form that pops up after DATE and TIME for appointment have been selected. Complately removed the "Change date" button as now the date is changed by simply clicking on a new one
 
@@ -311,7 +311,7 @@ Future functionality: save all the requests in a database
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/2ecb87b4583c847aab9bdd210f099778dab63687">Movement Source</a>
 
 <hr>
-### Day 24: January 26, 2017
+<h3> Day 24: January 26, 2017 </h3>
 
 **Today's Progress**: Styled timeSlots according to type of class. Minor additions to JS file (new tyoe of class)
 
@@ -335,7 +335,7 @@ Future functionality: save all the requests in a database
 
 
 <hr>
-### Day 25: January 27, 2017
+<h3> Day 25: January 27, 2017 </h3>
 
 **Today's Progress**: Styled timeSlots according to specific classTypes. Decided to link a database to store appointment requests. Time to revisit my DelTech's PHP course notes.
 
@@ -362,7 +362,7 @@ The big problem right now is how to send all the form information via email to t
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/dd36a12d6c9517cf5a22235a4fccd3b8cdccae44">Movement Source</a>
 
 <hr>
-### Day 26: January 29, 2017
+<h3> Day 26: January 29, 2017 </h3>
 
 **Today's Progress**: Used PHP and AJAX to submit form with appointment request and stored user info into a database. 
 Started on CSSDailyImages challenge - made my very first one pure CSS image - a bear cup!
@@ -387,7 +387,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 
 <hr>
-### Day 27: January 30, 2017
+<h3> Day 27: January 30, 2017 </h3>
 
 **Today's Progress**: - On mobile screen adjustув size of logo and menu toggle button to make them fit on one row together. Forked and edited portfolio to hold all of my pure css daily images.
 
@@ -415,7 +415,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/b78edc6fd1f57ebdfb9d1a79451dcba52353177d">Movement Source Lousy Commit</a>
 <a href = "http://codepen.io/katyarobinson/pen/OWzXOK"> CSSDailyImages Portfolio Forked and Edited</a>
 
-### Day 28: January 31, 2017
+<h3> Day 28: January 31, 2017 </h3>
 
 **Today's Progress**: Finished css-drawing an elephant. Started working on him yesterday at work but was too tired to finish when I got home. Worked on my big website project, improved UI. Now when user is prompted to make an appointment, the calendar shows up on top of the screen without any other distractions. Removed Facebook completely. Worked on emailing script, no luck so far :/
 
@@ -441,7 +441,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 <a href = "http://codepen.io/katyarobinson/full/XpVORv/"> CSSDailyImages Day 2: Elephant</a>
 
 
-### Day 29: February 1, 2017
+<h3> Day 29: February 1, 2017 </h3>
 
 **Today's Progress**: Started working on form validation using an open sourced Validator script
 
@@ -466,7 +466,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c3deea5eb30a56beaedcce48cf66e636bd69b759">Movement Source Commit</a>
 
-### Day 30: February 2, 2017
+<h3> Day 30: February 2, 2017 </h3>
 
 **Today's Progress**: Continued battling with form validation - it was supposed to take me 15 minutes, not 2 different 1-hour coding sessions. Better luck to me tomorrow :( 
 
@@ -491,7 +491,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/aee2bdad9a40476fd65495feee74cf953c83d38f">Movement Source Commit</a>
 
-### Day 31: February 3, 2017
+<h3> Day 31: February 3, 2017 </h3>
 
 **Today's Progress**: Form validation finally works YES! :)))  Restyled BringMeToTop arrow so it's visible on white background. Started working on log in page for site admin
 
@@ -503,7 +503,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 <hr> 
 
-### Day 32: February 4, 2017
+<h3> Day 32: February 4, 2017 </h3>
 
 **Today's Progress**: Started working on Beaver, found image to inspire me, chose colors, started coding. Gotta go to work
 
@@ -517,7 +517,7 @@ Started on CSSDailyImages challenge - made my very first one pure CSS image - a 
 
 <hr>
 
-### Day 33: February 5, 2017
+<h3> Day 33: February 5, 2017 </h3>
 
 **Today's Progress**: Finished form validation, submission and storing input information in database. Prevent logo from appearing on mobile menu. "Fixed" sending form submission via email. Fixed login PHP script. Added information from appointments table on Welcome admin page.
 
@@ -531,7 +531,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 <hr>
 
-### Day 33: February 5, 2017
+<h3> Day 33: February 5, 2017 </h3>
 
 **Today's Progress**: Finished pure CSS Beaver today
 
@@ -543,7 +543,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 <hr>
 
-### Day 34: February 6, 2017
+<h3> Day 34: February 6, 2017 </h3>
 
 **Today's Progress**: Worked on DailyCSSImages Tiger
 
@@ -555,7 +555,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 <hr>
 
-### Day 35: February 10, 2017
+<h3> Day 35: February 10, 2017 </h3>
 
 **Today's Progress**: Removed services from the mobile menu. 
 
@@ -567,7 +567,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 <hr>
 
-### Day 36: February 11, 2017
+<h3> Day 36: February 11, 2017 </h3>
 
 **Today's Progress**: Restyled About Us page. Added validation for phone number. Deleted unused files from the website folder. Fixed buttons on Services page.
 
@@ -579,7 +579,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 <a href= "http://codepen.io/katyarobinson/pen/rjQEey"> DailyCSSImages Day 5 - Favorite animated animal </a>
 
 <hr>
-### Day 37: February 12, 2017
+<h3> Day 37: February 12, 2017 </h3>
 
 **Today's Progress**: Finished dailycssimages Day 5 - Favorite Animated Animal(s)
 **Technology used**: Pure CSS
@@ -591,7 +591,7 @@ I feel so stupid. That one day I battled with PHP login script and got nothing d
 
 
 <hr>
-### Day 38: February 18, 2017
+<h3> Day 38: February 18, 2017 </h3>
 
 **Today's Progress**: No progress. Just frustrated, wrecked brain... Sad day.
 
@@ -604,7 +604,7 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 **Link to work:** Nada
 
 <hr>
-### Day 39: February 19, 2017
+<h3> Day 39: February 19, 2017 </h3>
 
 **Today's Progress**: Worked with PHP session to keep site admin logged while browsing the wesbite. When user is logged in, the main menu extends to include 2 more options: Appointments and Mail. Figured out dynamic links in PHP. Now I can click on an appointment and open the full information on a separate page. Used JQuery plugin Tablesorter.js to make the appointment table sortable. Used CSS Tricks article to make the table responsive. - Styled appointment requests in a better way. Sort by dates and class types. - Added ability to click on every request, review it and reply directly to the customer - USED PHP DYNAMIC LINKS
 
@@ -615,7 +615,7 @@ Spent en entire hour trying to sort the appointment requests by date and did't c
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/267b7139629307f838cb43be08d592ec7a7e7fef">Movement Source Website Admin Pages </a>
 
 <hr>
-### Day 40: February 20, 2017
+<h3> Day 40: February 20, 2017 </h3>
 
 **Today's Progress**: - Added session to every page, so when admin is logged in, she stays logged in. Changes all .html links and files to .php links and files. Broke and then fixed the appointment request button. When I was changing the header part of every page to include new .php links I forgot that my Services page had an additional set of script links on it. Now all is fixed, thanks to GitHub! I went backand looked at what the source code looked like until I broke it. Awesome!
 Fixed GoogleMaps on Contact Page - it is now shows correct location with a nice zoom.
@@ -634,7 +634,7 @@ I'm about to apply for a job I found on craigslist and decided that I absolutely
 <a href="https://github.com/KatyaRobinson/temp-page/commit/35708e892f539876c686ce1405d77ad9afa07db3">Temporary Page Commit</a>
 
 <hr>
-### Day 41: February 21, 2017
+<h3> Day 41: February 21, 2017 </h3>
 
 **Today's Progress**: Finished "website under consrtuction page". Added ability to manually delete appointment requests by site admin. Added ability to confirm appointments.
 
@@ -647,7 +647,7 @@ I'm about to apply for a job I found on craigslist and decided that I absolutely
 <a href="http://codepen.io/katyarobinson/full/QdeLBK/">Temporary Page Commit</a>
 
 <hr>
-### Day 42: February 22, 2017
+<h3> Day 42: February 22, 2017 </h3>
 
 **Today's Progress**: Watched lectures on UX design. 
 
@@ -659,7 +659,7 @@ Also, I signed up for DailySVGImages challenge. I don't know if I will actually 
 **Link to work:** No links to work today, no actual coding was done, just tons of notes taken!
 
 <hr>
-### Day 43: February 23, 2017
+<h3> Day 43: February 23, 2017 </h3>
 
 **Today's Progress**: Worked on the View.php and welcome.php pages of the MS website. Fixed the "Confirm" button to actually change the status of record. Made all dates in the past fade. 
 Started commenting the code before I forgot everythign I did there. 
@@ -674,7 +674,7 @@ I decided to stop adding new features until I get feedback from client.
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/933dea2309d7d64096d711d4e9d9a0db45023269">Movement Source Website </a>
 
 <hr>
-### Day 44: February 24, 2017
+<h3> Day 44: February 24, 2017 </h3>
 
 **Today's Progress**: Added Mail.php page, made some minor improvements to the appointments table - it is now automatically gets sorted by the date and entire past date row is faded. 
 
@@ -685,7 +685,7 @@ I decided to stop adding new features until I get feedback from client.
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/c6651618441c2c46392515fbe8226afa03038019">Movement Source Website </a>
 
 <hr>
-### Day 45: February 25, 2017
+<h3> Day 45: February 25, 2017 </h3>
 
 **Today's Progress**:  Added social media, contact icons. Styled header ans footer to better fit overall design.
 
@@ -696,7 +696,7 @@ I decided to stop adding new features until I get feedback from client.
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/fce0e447589581f72c65c967427b53094c722200">Movement Source Website </a>
 
 <hr>
-### Day 46: February 26, 2017
+<h3> Day 46: February 26, 2017 </h3>
 
 **Today's Progress**:  Research, reserach, research.
 
@@ -707,7 +707,7 @@ I decided to stop adding new features until I get feedback from client.
 **Link to work:** 
 
 <hr>
-### Day 47: February 27, 2017
+<h3> Day 47: February 27, 2017 </h3>
 
 **Today's Progress**:  Read a few chapters of the "Envisioning Information" book on UX Design. 
 
@@ -718,7 +718,7 @@ I decided to stop adding new features until I get feedback from client.
 **Link to work:** 
 
 <hr>
-### Day 48: February 28, 2017
+<h3> Day 48: February 28, 2017 </h3>
 
 **Today's Progress**:  Edited header and footer of the MS website. Both now contain social media icons and links. Little tweaks to desing. 
 
@@ -729,7 +729,7 @@ I decided to stop adding new features until I get feedback from client.
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/f25dc7ec0af371534ca2c632dacf12ad9e853cc9"> Movement Source Wesbite Commit</a>
 
 <hr>
-### Day 49: March 2, 2017
+<h3> Day 49: March 2, 2017 </h3>
 
 **Today's Progress**:  Added type of class to the appointment request. Now it is displayed on page before submitting request and on the admin individual appointment screen. Tweaked design as always. Went back to the MEAN course I bought on Udemy website, currently learning to use Express framework. Hoping to build my next project with MEAN stack. 
 
@@ -740,7 +740,7 @@ I decided to stop adding new features until I get feedback from client.
 **Link to work:** <a href="https://github.com/KatyaRobinson/movement-source/commit/ee8503a706d66696b4c73f19afd1e94e5da954ab"> Movement Source Wesbite Commit</a>
 
 <hr>
-### Day 50: March 3, 2017
+<h3> Day 50: March 3, 2017 </h3>
 
 **Today's Progress**:  Finished Day 6 Clock for #dailycssimages
 
@@ -752,7 +752,7 @@ Another exciting news - I've submitted the Movement Source website to the client
 **Link to work:** <a href="http://codepen.io/katyarobinson/full/mWEPEg/"> DailyCSSImages Day 6 - Clock </a>
 
 <hr>
-### Day 51: March 4, 2017
+<h3> Day 51: March 4, 2017 </h3>
 
 **Today's Progress**:  Finished Express overview and tutorials 
 
@@ -764,7 +764,7 @@ Another exciting news - I've submitted the Movement Source website to the client
 
 
 <hr>
-### Day 52: March 5, 2017
+<h3> Day 52: March 5, 2017 </h3>
 
 **Today's Progress**:  Completed the following sections of the WebDevBootcamp course on udemy:
 - Intro to APIs (what is API and how can it be used in applications)
@@ -791,7 +791,7 @@ Started coding the big YelpCamp project for this course
 
 
 <hr>
-### Day 53: March 6, 2017
+<h3> Day 53: March 6, 2017 </h3>
 
 **Today's Progress**:  Completed the following sections of the WebDevBootcamp course on udemy:
 - Intro to Mongoose - Parts 1 and 2 (watched tutorials, didn't follow along yet)
@@ -806,7 +806,7 @@ Got feedback from the MS client, she liked what I've done, but needs to make cha
 **Link to work:** <a href="https://github.com/KatyaRobinson/YelpCamp/commit/14c250801fb78d4777276b99b2bb62ee47904782">YelCamp Submit</a>
 
 <hr>
-### Day 54: March 7, 2017
+<h3> Day 54: March 7, 2017 </h3>
 
 **Today's Progress**:  Completed the following sections of the WebDevBootcamp course on udemy:
 - YelpCamp: adding Mongoose
@@ -818,7 +818,7 @@ Got feedback from the MS client, she liked what I've done, but needs to make cha
 **Link to work:** <a href="">YelCamp Submit</a>
 
 <hr>
-### Day 55: March 8, 2017
+<h3> Day 55: March 8, 2017 </h3>
 
 **Today's Progress**:  Learned about Restful routing
 
@@ -833,7 +833,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 **Link to work:** No links to submit today...>
 
 <hr>
-### Day 56: March 11, 2017
+<h3> Day 56: March 11, 2017 </h3>
 
 **Today's Progress**:  WebDevBootCampsections completed:
 - RESTful Routing (8 lectures and Bloggin App tutorial)
@@ -845,7 +845,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 **Link to work:** <a href="https://github.com/KatyaRobinson/blog_app/commit/ce9e44c1636b798e68e08fc41344c1b888f15172">Blog App</a>
 
 <hr>
-### Day 57: March 13, 2017
+<h3> Day 57: March 13, 2017 </h3>
 
 **Today's Progress**:  WebDevBootCampsections completed:
 - RESTful Routing - destroy route
@@ -858,7 +858,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 
 <hr>
-### Day 58: March 14, 2017
+<h3> Day 58: March 14, 2017 </h3>
 
 **Today's Progress**:  WebDevBootCampsections completed:
  - Data Associations (embeddinf data and referencing data)
@@ -872,7 +872,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 
 <hr>
-### Day 59: March 15, 2017
+<h3> Day 59: March 15, 2017 </h3>
 
 **Today's Progress**:  WebDevBootCampsections completed:
  - Authentication
@@ -885,7 +885,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 
 
 <hr>
-### Day 60: March 16, 2017
+<h3> Day 60: March 16, 2017 </h3>
 
 **Today's Progress**:  Created mockup of my new portfolio website - so far I have home and projects page.
  
@@ -896,7 +896,7 @@ I decided I'll use Node. So this online course I'm taking will really help.
 **Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new">Portfolio mockups commit</a>
 
 <hr>
-### Day 61-62: March 18-19, 2017
+<h3> Day 61-62: March 18-19, 2017 </h3>
 
 **Today's Progress**:  Created mockups for about-me and about-me-hobbies pages. My portfolio design is coming along.
 Started outlining the project files. Couldn't wait to start coding!!! 
@@ -909,7 +909,7 @@ Decided to use Node and Express for my project. Found awesome responsive sidebar
 **Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/tree/master">Portfolio Website</a>
 
 <hr>
-### Day 63: March 20, 2017
+<h3> Day 63: March 20, 2017 </h3>
 
 **Today's Progress**: Set up a GitHub repository to host my projects, created index page with a table to project info. Submitted my old portfolio website as the Day 1 project. 
  
@@ -921,7 +921,7 @@ The first site is portfolio, I submitted my old embarassing one that I created l
 **Link to work:** <a href="https://github.com/KatyaRobinson/katyarobinson.github.io">30Days30Sites Index</a>
 
 <hr>
-### Day 64-65: March 21-22, 2017
+<h3> Day 64-65: March 21-22, 2017 </h3>
 
 **Today's Progress**: Finished Portfolio page for #30Days30Sites and Event Invitation page.
  
@@ -933,7 +933,7 @@ The first site is portfolio, I submitted my old embarassing one that I created l
 <a href="https://github.com/KatyaRobinson/katyarobinson.github.io/tree/master/day2">Day 2: Even Invitation</a>
 
 <hr>
-### Day 67: March 28, 2017
+<h3> Day 67: March 28, 2017 </h3>
 
 **Today's Progress**: Developed portfolio front page - header "workplace" image, slider with featured projects. Deployed websited on Heroku - followed the official tutorial
  
@@ -947,7 +947,7 @@ Today's goal is to get the front page of my new portfolio working.
 
 
 <hr>
-### Day 68: March 29, 2017
+<h3> Day 68: March 29, 2017 </h3>
 
 **Today's Progress**: Worked on my portfolio, kept building to bring it as close as possible to the design. Added the changeColor function to change the color scheme of the page according to the user's preferences.
  
@@ -959,7 +959,7 @@ Today's goal is to get the front page of my new portfolio working.
 
 
 <hr>
-### Day 69: April 2, 2017
+<h3> Day 69: April 2, 2017 </h3>
 
 **Today's Progress**: Continued working on portfolio front page, created the color schemes and refactored code
  
@@ -971,7 +971,7 @@ Today's goal is to get the front page of my new portfolio working.
 
 
 <hr>
-### Day 70: April 3, 2017
+<h3> Day 70: April 3, 2017 </h3>
 
 **Today's Progress**: Addded projects to the #featured-projects slideshow, added footer, improved on the #make-pretty button, how works flawlessly!
  
@@ -982,7 +982,7 @@ Today's goal is to get the front page of my new portfolio working.
 **Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/9a1d47f04d779c28168173a613c71853d3e18d48">Portfolio Commit - colors working </a>
 
 <hr>
-### Day 71: April 4, 2017
+<h3> Day 71: April 4, 2017 </h3>
 
 **Today's Progress**: No real progress today :( 
  
@@ -993,7 +993,7 @@ Today's goal is to get the front page of my new portfolio working.
 **Link to work:** 
 
 <hr>
-### Day 72: April 5, 2017
+<h3> Day 72: April 5, 2017 </h3>
 
 **Today's Progress**:  Refactored code by cleaning colorChange functions and storing all colors in a JS object. Added localStorage to store the most recently chosen color scheme
  
@@ -1004,7 +1004,7 @@ Today's goal is to get the front page of my new portfolio working.
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/bbdd6c4838d1f8cc9f33043146c1441db0b86cf5">Portfolio Commit</a>
 
 <hr>
-### Day 73: April 6, 2017
+<h3> Day 73: April 6, 2017 </h3>
 
 **Today's Progress**: Fixed color changing mess, started working on Portfolio page
  
@@ -1015,7 +1015,7 @@ Today's goal is to get the front page of my new portfolio working.
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/c91194a0302c170a95ff13b3c03a333a604dfa74">Portfolio Commit</a>
 
 <hr>
-### Day 73: April 6, 2017 - PART TWO - AFTER WORK
+<h3> Day 73: April 6, 2017 - PART TWO - AFTER WORK </h3>
 
 **Today's Progress**: Fixed a bunch of little bugs, footer background issue, sidebar menu design improvements (active tab, uniform color)
 Took a break from the portfolio website and restarted making Day 3 for 30Days30Sites challnege - Attraction Page.
@@ -1028,7 +1028,7 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 <a href="https://github.com/KatyaRobinson/katyarobinson.github.io/commit/d16c793a9524fe7a07228ca4defa3ffb3abc0299">30Days30Sites Day 3 Commit</a>
 
 <hr>
-### Day 74: April 7
+<h3> Day 74: April 7 </h3>
 
 **Today's Progress**: Build a little more to the Portfolio page - created placeholder cards for future projects, changes design of the cards, added a slider for testimonials
 
@@ -1039,7 +1039,7 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/1b84890af082938bf58b8aec43fd8f0cf12db83d">Portfolio Commit</a>
 
 <hr>
-### Day 75, 76: April 8,9
+<h3> Day 75, 76: April 8,9 </h3>
 
 **Today's Progress**: Finished skeleton of Portfolio page and started About page
 
@@ -1050,7 +1050,7 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/e94176555dc314d7ba82860f090dd461bfbc4088">Portfolio Commit</a>
 
 <hr>
-### Day 77: April 10
+<h3> Day 77: April 10 </h3>
 
 **Today's Progress**: Created template for showing individual project case studies. Moved database to the cloud with mlab MongoDb
 

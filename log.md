@@ -1082,7 +1082,7 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 
 **Thoughts:** I feel like the hard part of this project is over, I'm just cruising throgh it now. Of course there is still a lot of writing to do and I hate it, but at least everythign looks nice :) Nicer that I expected. 
 
-**Link to work:**  <a href="">Portfolio Commit</a>
+**Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/3c3302538fc3054e7ef7846aba1c34435452a117">Portfolio Commit</a>
 
 
 

@@ -1061,6 +1061,18 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/dc2606104c38a1357e44eb39e74a3704f7ec39d4">Portfolio Commit</a>
 
 
+<hr>
+<h3> Day 78: April 12 </h3>
+
+**Today's Progress**: Got a lot done today! 
+
+**Technology used**: JavaScript, CSS
+
+**Thoughts:** Today I was on a roll! Got sooo much done with the portfolio website, it's coming up beautifully :) 
+
+**Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/dc2606104c38a1357e44eb39e74a3704f7ec39d4">Portfolio Commit</a>
+
+
 
 
 

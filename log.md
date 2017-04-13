@@ -1073,6 +1073,18 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commits/master">Portfolio Commit</a>
 
 
+<hr>
+<h3> Day 79: April 13 </h3>
+
+**Today's Progress**: Added demo and code links to the projects and buttons to access them from the invididual project template
+
+**Technology used**: JavaScript, CSS, Express
+
+**Thoughts:** I feel like the hard part of this project is over, I'm just cruising throgh it now. Of course there is still a lot of writing to do and I hate it, but at least everythign looks nice :) Nicer that I expected. 
+
+**Link to work:**  <a href="">Portfolio Commit</a>
+
+
 
 
 

@@ -1084,6 +1084,17 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/3c3302538fc3054e7ef7846aba1c34435452a117">Portfolio Commit</a>
 
+<hr>
+<h3> Day 80: April 16 </h3>
+
+**Today's Progress**: Added content for about-me page, added Contact form
+
+**Technology used**: JavaScript, CSS, MY POOR BRAIN
+
+**Thoughts:** Man writing content sucks... 
+
+**Link to work:**  <a href="">Portfolio Commit</a>
+
 
 
 

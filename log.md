@@ -1096,6 +1096,29 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Link to work:**  <a href="https://github.com/KatyaRobinson/portfolio-new/commit/572e1ec9b8469ef702ffebd33db2a8cf16e58959">Portfolio Commit</a>
 
 
+<hr>
+<h3> Day 81-86 </h3>
+
+**Today's Progress**: Started AdvancedBeginnerChallange which requires a lot of reading, watching videos, and other activities, but NOT code, so there weren't any commits
+
+**Technology used**: BRAIN
+
+**Thoughts:** 
+
+**Link to work:** 
+
+<hr>
+<h3> Day 87: April 27 </h3>
+
+**Today's Progress**: Created additional pages for About Me section - Hobbies and Coding Challenges
+
+**Technology used**: HTML, CSS
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
 
 
 

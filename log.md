@@ -1119,9 +1119,16 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Link to work:** <a href="https://github.com/KatyaRobinson/portfolio-new/commit/30856e2a41126e2fb4ef133c1f86073404a6960f">Portfolio Commit </a>
 
 
+<hr>
+<h3> Day 88: April 28 </h3>
 
+**Today's Progress**: Followed a tutorial on creating a location storing app in React
 
+**Technology used**: React, JS
 
+**Thoughts:** Tireddddd
+
+**Link to work:** <a href="https://github.com/KatyaRobinson/react-location-storing-app/commits/master">Location Storing App Commit</a>
 
 
 

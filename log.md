@@ -1131,6 +1131,27 @@ Took a break from the portfolio website and restarted making Day 3 for 30Days30S
 **Link to work:** <a href="https://github.com/KatyaRobinson/react-location-storing-app/commits/master">Location Storing App Commit</a>
 
 
+<hr>
+Days 89-92
+
+**Today's Progress**: Reading, tutorials
+
+**Technology used**: React, JS
+
+**Thoughts:** This will never end
+
+**Link to work:** 
+
+<hr>
+<h3> Day 92: May 6 </h3>
+
+**Today's Progress**: Added project description to my website, design tweaks
+
+**Technology used**: CSS
+
+**Thoughts:** I gotta get this website done by the end of the challange!!
+
+**Link to work:** <a href="">Portfolio Commit</a>
 
 
 
